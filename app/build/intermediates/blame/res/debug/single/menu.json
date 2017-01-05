@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\selection.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\menu\\selection.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\groupby.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\menu\\groupby.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\albumset.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\menu\\albumset.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\settings.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\menu\\settings.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\album.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\menu\\album.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\operation.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\menu\\operation.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\filterby.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\menu\\filterby.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pickup.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\menu\\pickup.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\crop.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\menu\\crop.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\photo.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\menu\\photo.xml"
+    }
+]

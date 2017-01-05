@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\xml\\wallpaper_picker_preview.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\xml\\wallpaper_picker_preview.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_info.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\xml\\widget_info.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\xml\\device_filter.xml"
+    }
+]

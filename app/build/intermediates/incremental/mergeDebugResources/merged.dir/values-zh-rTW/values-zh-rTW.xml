@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="make_albums_available_offline">
+    <item msgid="2171596356101611086" quantity="one">"正在將相簿設為可離線瀏覽。"</item>
+    <item msgid="4948604338155959389" quantity="other">"正在將相簿設為可離線瀏覽。"</item>
+  </plurals>
+    <plurals name="number_of_albums_selected">
+    <item msgid="749292746814788132" quantity="zero">"已選取 %1$d 本"</item>
+    <item msgid="6184377003099987825" quantity="one">"已選取 %1$d 本"</item>
+    <item msgid="53105607141906130" quantity="other">"已選取 %1$d 本"</item>
+  </plurals>
+    <plurals name="number_of_groups_selected">
+    <item msgid="3466388370310869238" quantity="zero">"已選取 %1$d 個"</item>
+    <item msgid="5030162638216034260" quantity="one">"已選取 %1$d 個"</item>
+    <item msgid="3512041363942842738" quantity="other">"已選取 %1$d 個"</item>
+  </plurals>
+    <plurals name="number_of_items_selected">
+    <item msgid="2142579311530586258" quantity="zero">"已選取 %1$d 個"</item>
+    <item msgid="2478365152745637768" quantity="one">"已選取 %1$d 個"</item>
+    <item msgid="754722656147810487" quantity="other">"已選取 %1$d 個"</item>
+  </plurals>
+    <string msgid="3985447518557474672" name="Import">"匯入"</string>
+    <string msgid="5619154886080878023" name="activity_not_found">"沒有可完成這個動作的應用程式。"</string>
+    <string msgid="4271217504968243974" name="add_account">"新增帳戶"</string>
+    <string msgid="7320787705180057947" name="albums">"相簿"</string>
+    <string msgid="5920657630303915195" name="aperture">"光圈"</string>
+    <string msgid="1928079047368929634" name="app_name">"圖片庫"</string>
+    <string msgid="1228925628357366957" name="appwidget_empty_text">"沒有任何相片。"</string>
+    <string msgid="6410561146863700411" name="appwidget_title">"相片庫"</string>
+    <string msgid="4296941368722892821" name="auto">"自動"</string>
+    <string msgid="1663414996270538748" name="autofix">"自動修正"</string>
+    <string msgid="4521059045896269095" name="caching_label">"快取中…"</string>
+    <string msgid="916021826223448591" name="camera_connected">"相機已連線。"</string>
+    <string msgid="2100559901676329496" name="camera_disconnected">"相機已中斷連線。"</string>
+    <string msgid="797463183863414289" name="camera_setas_wallpaper">"桌布"</string>
+    <string msgid="3637516880917356226" name="cancel">"取消"</string>
+    <string msgid="6407959065464291972" name="click_import">"輕觸這裡即可匯入相簿"</string>
+    <string msgid="5585646033158453043" name="close">"關閉"</string>
+    <string msgid="7358770022173660511" name="confirm_delete">"刪除"</string>
+    <string msgid="7598378507763334041" name="crop">"裁剪"</string>
+    <string msgid="3427470284074377001" name="crop_action">"裁剪"</string>
+    <string msgid="521114301871349328" name="crop_label">"裁剪相片"</string>
+    <string msgid="3400773981839556" name="crop_not_saved">"未儲存裁剪的圖片。"</string>
+    <string msgid="152200178986698300" name="crop_save_text">"確定"</string>
+    <string msgid="1062612625032731770" name="crop_saved">"裁剪的圖片已儲存至「下載」資料夾。"</string>
+    <string msgid="8794037869706891710" name="crop_tooltip">"拖曳標記即可裁剪相片"</string>
+    <string msgid="4173724489001742342" name="crossprocess">"融合處理"</string>
+    <string msgid="2839695998251824487" name="delete">"刪除"</string>
+    <string msgid="3016729318096557520" name="description">"說明"</string>
+    <string msgid="5758897506061723684" name="deselect_all">"取消全選"</string>
+    <string msgid="8415120088556445230" name="details">"詳細資料"</string>
+    <string msgid="3215779248094151255" name="details_hms">"%1$d:%2$02d:%3$02d"</string>
+    <string msgid="940634969189855292" name="details_ms">"%1$02d:%2$02d"</string>
+    <string msgid="2611396603977441273" name="details_title">"第 %1$d 個項目 (共 %2$d 個項目)："</string>
+    <string msgid="50396326708699797" name="documentary">"黑白記錄片"</string>
+    <string msgid="217672440064436595" name="done">"完成"</string>
+    <string msgid="1686409894518940990" name="doodle">"塗鴉"</string>
+    <string msgid="2902117272374362915" name="doodle_tooltip">"在相片上畫圖即可塗鴉"</string>
+    <string msgid="8145893940788467106" name="duotone">"雙色調"</string>
+    <string msgid="8160058911218541616" name="duration">"影片長度"</string>
+    <string msgid="1502273844748580847" name="edit">"編輯"</string>
+    <string msgid="3777746536831799890" name="edited_photo_bucket_name">"已編輯"</string>
+    <string msgid="4542880442593595494" name="empty_album">"O 個可用的圖片/影片。"</string>
+    <string msgid="3990163680281058826" name="exposure_time">"曝光時間"</string>
+    <string msgid="6205748523156172637" name="facelift">"光滑臉孔"</string>
+    <string msgid="4412831806626044111" name="facetan">"古銅色臉孔"</string>
+    <string msgid="8394392853646664505" name="fail_to_load">"無法載入"</string>
+    <string msgid="8486169301588318915" name="file_size">"檔案大小"</string>
+    <string msgid="2644989991700022526" name="filllight">"調整亮度"</string>
+    <string msgid="6037488646928998921" name="fisheye">"魚眼"</string>
+    <string msgid="2816779031261147723" name="flash">"閃光燈"</string>
+    <string msgid="1445443413822680010" name="flash_off">"未使用閃光燈"</string>
+    <string msgid="7891556231891837284" name="flash_on">"使用閃光燈"</string>
+    <string msgid="2357692401826287480" name="flip">"翻轉"</string>
+    <string msgid="2700943256714731737" name="flip_tooltip">"拖曳照片即可翻轉"</string>
+    <string msgid="1291383769749877010" name="focal_length">"焦距"</string>
+    <string msgid="8766337315709161215" name="free_space_format">"可用空間：<ns1:g id="BYTES">%s</ns1:g>"</string>
+    <string msgid="259405922673466798" name="gadget_title">"相框"</string>
+    <string msgid="7487585304579789098" name="grain">"膠片顆粒"</string>
+    <string msgid="7641563843060945228" name="grayscale">"黑白"</string>
+    <string msgid="4308299657902209357" name="group_by">"分組依據"</string>
+    <string msgid="1532818636053818958" name="group_by_album">"依專輯"</string>
+    <string msgid="1566351636227274906" name="group_by_faces">"依人物分組"</string>
+    <string msgid="316641628989023253" name="group_by_location">"依位置"</string>
+    <string msgid="153766174950394155" name="group_by_size">"依大小分類"</string>
+    <string msgid="3568731317210676160" name="group_by_tags">"依標記"</string>
+    <string msgid="9046168567717963573" name="group_by_time">"依時間"</string>
+    <string msgid="3648885449443787772" name="height">"高度"</string>
+    <string msgid="3902653944386623972" name="highlight">"強光"</string>
+    <string msgid="3875040287486199999" name="import_complete">"匯入完成"</string>
+    <string msgid="8497942380703298808" name="import_fail">"匯入失敗"</string>
+    <string msgid="5028296664327335940" name="iso">"ISO"</string>
+    <string msgid="7038208555304563571" name="loading">"載入中..."</string>
+    <string msgid="928195413034552034" name="loading_account">"正在載入帳戶..."</string>
+    <string msgid="5990741970574295950" name="loading_failure">"無法載入相片"</string>
+    <string msgid="1200894415793838191" name="loading_image">"正在載入圖片..."</string>
+    <string msgid="4013492720121891585" name="loading_video">"正在載入影片…"</string>
+    <string msgid="3432705876921618314" name="location">"地點"</string>
+    <string msgid="6649297994083130305" name="locations">"位置"</string>
+    <string msgid="1270032154357186736" name="lomoish">"Lomo"</string>
+    <string msgid="5157950985488297112" name="make_available_offline">"可在離線時使用"</string>
+    <string msgid="7921835498034236197" name="maker">"製造商"</string>
+    <string msgid="6608905477477607865" name="manual">"手動"</string>
+    <string msgid="8024168704337990470" name="mimetype">"MIME 類型"</string>
+    <string msgid="8240207064064337366" name="model">"型號"</string>
+    <string msgid="3526526872644898229" name="movie_view_label">"影片播放器"</string>
+    <string msgid="2554690102655855657" name="multiface_crop_help">"輕觸臉孔即可開始。"</string>
+    <string msgid="1985508917342811252" name="negative">"負片"</string>
+    <string msgid="5595408018304861875" name="no">"否"</string>
+    <string msgid="4111744447491690896" name="no_albums_alert">"沒有相簿。"</string>
+    <string msgid="7164037617297293668" name="no_connectivity">"網路發生問題，因此無法辨識部分位置。"</string>
+    <string msgid="4043624857489331676" name="no_location">"無位置資訊"</string>
+    <string msgid="5315144556325243400" name="no_such_item">"找不到項目。"</string>
+    <string msgid="284723185546429750" name="no_thumbnail">"無縮圖"</string>
+    <string msgid="4958327983165245513" name="orientation">"瀏覽模式"</string>
+    <string msgid="4725740395885105824" name="path">"路徑"</string>
+    <string msgid="4114003823747292747" name="people">"人物"</string>
+    <string msgid="3494363661299484657" name="photo_saved">"相片已儲存至 <ns1:g id="ALBUM_NAME">%s</ns1:g> 相簿中"</string>
+    <string msgid="4738587346771969697" name="photoeditor_name">"相片工作室"</string>
+    <string msgid="1497721615718760613" name="picasa_posts">"訊息中的相片"</string>
+    <string msgid="4139212359561383385" name="posterize">"色調分離"</string>
+    <string msgid="8722939570307386071" name="process_caching_requests">"正在處理快取要求"</string>
+    <string msgid="4958448806369928239" name="redeye">"紅眼修正"</string>
+    <string msgid="9112774042113471358" name="redeye_tooltip">"輕按即可消除紅眼"</string>
+    <string msgid="5184414518126703481" name="resume_playing_message">"要從 %s 繼續播放嗎？"</string>
+    <string msgid="5471008499835769292" name="resume_playing_restart">"重新開始"</string>
+    <string msgid="3847915469173852416" name="resume_playing_resume">"繼續播放"</string>
+    <string msgid="8996677350649355013" name="resume_playing_title">"繼續播放影片"</string>
+    <string msgid="6607597269792373083" name="rotate">"旋轉"</string>
+    <string msgid="5888273317282539839" name="rotate_left">"向左旋轉"</string>
+    <string msgid="6776325835923384839" name="rotate_right">"向右旋轉"</string>
+    <string msgid="7008602969130734229" name="rotate_tooltip">"拖曳照片即可旋轉"</string>
+    <string msgid="8621322012271169931" name="saturation">"飽和度"</string>
+    <string msgid="5516670392524294967" name="save">"儲存"</string>
+    <string msgid="6857408774183654970" name="save_error">"無法儲存裁剪的圖片。"</string>
+    <string msgid="3125109368779997862" name="save_photo">"要儲存已編輯的相片嗎？"</string>
+    <string msgid="8596600582621364077" name="saving_failure">"無法儲存相片"</string>
+    <string msgid="7270334453636349407" name="saving_image">"正在儲存相片..."</string>
+    <string msgid="4632641262236697235" name="select_album">"選取相簿"</string>
+    <string msgid="3403283025220282175" name="select_all">"全選"</string>
+    <string msgid="9090385962030340391" name="select_group">"選取群組"</string>
+    <string msgid="7841406150484742140" name="select_image">"選取相片"</string>
+    <string msgid="2257529413100472599" name="select_item">"選取項目"</string>
+    <string msgid="4859510992798615076" name="select_video">"選取影片"</string>
+    <string msgid="7978093531824705601" name="sepia">"懷舊色調"</string>
+    <string msgid="7235465319919457488" name="sequence_in_set">"第 %1$d 個項目，共 %2$d 個項目："</string>
+    <string msgid="3636764710790507868" name="set_as">"設為"</string>
+    <string msgid="2331476809308010401" name="set_image">"將相片設為"</string>
+    <string msgid="4581863582996336783" name="set_label_all_albums">"所有相簿"</string>
+    <string msgid="6698133661656266702" name="set_label_local_albums">"本機相簿"</string>
+    <string msgid="1283513183744896368" name="set_label_mtp_devices">"MTP 裝置"</string>
+    <string msgid="5356258354953935895" name="set_label_picasa_albums">"Picasa 相簿"</string>
+    <string msgid="1534847740615665736" name="settings">"設定"</string>
+    <string msgid="8235188588101973090" name="shadow">"陰影"</string>
+    <string msgid="3619042788254195341" name="share">"分享"</string>
+    <string msgid="8449662378104403230" name="sharpen">"銳化"</string>
+    <string msgid="4780647751652596980" name="show_all">"圖片和影片"</string>
+    <string msgid="7263218480867672653" name="show_images_only">"僅顯示圖片"</string>
+    <string msgid="6157544221201750980" name="show_on_map">"在地圖上顯示"</string>
+    <string msgid="3850394623678871697" name="show_videos_only">"僅顯示影片"</string>
+    <string msgid="5324398253474104087" name="size_above">"<ns1:g id="SIZE">%1$s</ns1:g> 以上"</string>
+    <string msgid="2074956730721942260" name="size_below">"<ns1:g id="SIZE">%1$s</ns1:g> 以下"</string>
+    <string msgid="8779660840898917208" name="size_between">"<ns1:g id="MIN_SIZE">%1$s</ns1:g> 至 <ns1:g id="MAX_SIZE">%2$s</ns1:g>"</string>
+    <string msgid="4355906903247112975" name="slideshow">"投影播放"</string>
+    <string msgid="6915963319933437083" name="slideshow_dream_name">"投影播放"</string>
+    <string msgid="5217801513491493491" name="straighten">"拉正"</string>
+    <string msgid="4846317027139212339" name="straighten_tooltip">"拖曳照片即可拉正"</string>
+    <string msgid="7280111806675169992" name="switch_to_camera">"切換至相機"</string>
+    <string msgid="2218733298953719785" name="sync_album_error">"無法下載這本相簿中的相片，請稍後再試。"</string>
+    <string msgid="9016732535181154028" name="sync_album_set_error">"無法下載相簿清單，請稍後再試。"</string>
+    <string msgid="8522572542111169872" name="sync_picasa_albums">"重新整理"</string>
+    <string msgid="5539648765482935955" name="tags">"標記"</string>
+    <string msgid="1607987938521534517" name="temperature">"暖色"</string>
+    <string msgid="1367953006052876956" name="time">"時間"</string>
+    <string msgid="2023033894889499219" name="times">"時間"</string>
+    <string msgid="154435943863418434" name="tint">"著色"</string>
+    <string msgid="7622928349908052569" name="title">"標題"</string>
+    <string msgid="2184754031896160755" name="try_to_set_local_album_available_offline">"這個項目已儲存在本機上，並且可供離線使用。"</string>
+    <string msgid="1125768433254329136" name="unit_mm">"釐米"</string>
+    <string msgid="7281481064509590402" name="untagged">"無標記"</string>
+    <string msgid="7003051631792271009" name="video_err">"無法播放影片。"</string>
+    <string msgid="7648125924662648282" name="vignette">"暈影"</string>
+    <string msgid="140165383777262070" name="wallpaper">"正在設定桌布..."</string>
+    <string msgid="1582509289994216078" name="white_balance">"白平衡"</string>
+    <string msgid="2161028964992385809" name="widget_type">"小工具類型"</string>
+    <string msgid="3245149644830731121" name="widget_type_album">"相簿中的圖片"</string>
+    <string msgid="6267065337367795355" name="widget_type_photo">"選擇圖片"</string>
+    <string msgid="8594622705019763768" name="widget_type_shuffle">"隨機播放所有圖片"</string>
+    <string msgid="9215847239714321097" name="width">"寬度"</string>
+    <string msgid="5402582493291792293" name="yes">"是"</string>
+</resources>

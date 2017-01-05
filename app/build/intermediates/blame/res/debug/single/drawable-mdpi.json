@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icn_media_play_normal_holo_dark.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\icn_media_play_normal_holo_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\scrubber_knob.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\scrubber_knob.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dropdown_normal_holo_dark.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\dropdown_normal_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_lockscreen_chevron_up.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\ic_lockscreen_chevron_up.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\focus_box.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\focus_box.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_make_offline_normal_on_holo_dark.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\btn_make_offline_normal_on_holo_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_make_offline_normal_off_holo_dark.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\btn_make_offline_normal_off_holo_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\grid_selected.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\grid_selected.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_save_holo_light.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_save_holo_light.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_control_play.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\ic_control_play.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icn_media_pause_normal_holo_dark.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\icn_media_pause_normal_holo_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_default_normal_holo_dark.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\btn_default_normal_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\appwidget_photo_border.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\appwidget_photo_border.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_vidcontrol_pause.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\ic_vidcontrol_pause.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_trash_holo_light.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_trash_holo_light.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\frame_overlay_gallery_ptp.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\frame_overlay_gallery_ptp.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_video_thumb.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\ic_video_thumb.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\frame_overlay_gallery_picasa.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\frame_overlay_gallery_picasa.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_ptp_holo_light.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_ptp_holo_light.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_make_offline_disabled_on_holo_dark.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\btn_make_offline_disabled_on_holo_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\border_photo_frame_widget_focused_holo.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\border_photo_frame_widget_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\progress_primary_holo_dark.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\progress_primary_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\overscroll_glow.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\overscroll_glow.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\progress_bg_holo_dark.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\progress_bg_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\photoeditor_tab_unselected_focused_holo.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\photoeditor_tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\spinner_76_outer_holo.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\spinner_76_outer_holo.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_default_pressed_holo_dark.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\btn_default_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_manage_pin.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\ic_manage_pin.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_share_holo_light.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\navstrip_translucent.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\navstrip_translucent.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\frame_overlay_gallery_camera.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\frame_overlay_gallery_camera.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bg_vidcontrol.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\bg_vidcontrol.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\preview.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\preview.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_vidcontrol_play.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\ic_vidcontrol_play.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\actionbar_translucent.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\actionbar_translucent.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icn_media_play_pressed_holo_dark.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\icn_media_play_pressed_holo_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\photoeditor_tab_unselected_pressed_holo.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\photoeditor_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_camera_holo_light.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_camera_holo_light.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icn_media_play_focused_holo_dark.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\icn_media_play_focused_holo_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\overscroll_edge.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\overscroll_edge.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\spinner_76_inner_holo.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\spinner_76_inner_holo.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_gallery_play.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\ic_gallery_play.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\photoeditor_tab_selected_holo.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\photoeditor_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\photoeditor_tab_selected_focused_holo.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\photoeditor_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\thumb_selected.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\thumb_selected.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_cancel_holo_light.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_cancel_holo_light.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\border_photo_frame_widget_pressed_holo.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\border_photo_frame_widget_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\photoeditor_tab_selected_pressed_holo.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\photoeditor_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\frame_overlay_gallery_folder.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\frame_overlay_gallery_folder.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icn_media_pause_focused_holo_dark.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\icn_media_pause_focused_holo_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_pan_thumb.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\ic_pan_thumb.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\progress_secondary_holo_dark.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\progress_secondary_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icn_media_pause_pressed_holo_dark.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\icn_media_pause_pressed_holo_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\border_photo_frame_widget_holo.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\border_photo_frame_widget_holo.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\grid_pressed.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\grid_pressed.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\camera_crop_holo.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\camera_crop_holo.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\popup_full_dark.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\popup_full_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_vidcontrol_reload.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\ic_vidcontrol_reload.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\cab_divider_vertical_dark.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\cab_divider_vertical_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_make_offline.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_make_offline.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\wallpaper_picker_preview.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\wallpaper_picker_preview.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_slideshow_holo_light.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_slideshow_holo_light.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_info_details.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_info_details.png"
+    }
+]

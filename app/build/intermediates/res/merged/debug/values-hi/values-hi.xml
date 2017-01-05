@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="make_albums_available_offline">
+    <item msgid="2171596356101611086" quantity="one">"एल्‍बम ऑफ़लाइन उपलब्‍ध कराना."</item>
+    <item msgid="4948604338155959389" quantity="other">"एल्‍बम ऑफ़लाइन उपलब्‍ध कराना."</item>
+  </plurals>
+    <plurals name="number_of_albums_selected">
+    <item msgid="749292746814788132" quantity="zero">"%1$d चयनित"</item>
+    <item msgid="6184377003099987825" quantity="one">"%1$d चयनित"</item>
+    <item msgid="53105607141906130" quantity="other">"%1$d चयनित"</item>
+  </plurals>
+    <plurals name="number_of_groups_selected">
+    <item msgid="3466388370310869238" quantity="zero">"%1$d चयनित"</item>
+    <item msgid="5030162638216034260" quantity="one">"%1$d चयनित"</item>
+    <item msgid="3512041363942842738" quantity="other">"%1$d चयनित"</item>
+  </plurals>
+    <plurals name="number_of_items_selected">
+    <item msgid="2142579311530586258" quantity="zero">"%1$d चयनित"</item>
+    <item msgid="2478365152745637768" quantity="one">"%1$d चयनित"</item>
+    <item msgid="754722656147810487" quantity="other">"%1$d चयनित"</item>
+  </plurals>
+    <string msgid="3985447518557474672" name="Import">"आयात करें"</string>
+    <string msgid="5619154886080878023" name="activity_not_found">"क्रिया पूर्ण करने हेतु कोई एप्‍लि. उपलब्‍ध नहीं."</string>
+    <string msgid="4271217504968243974" name="add_account">"खाता जोड़ें"</string>
+    <string msgid="7320787705180057947" name="albums">"एल्बम"</string>
+    <string msgid="5920657630303915195" name="aperture">"एपर्चर"</string>
+    <string msgid="1928079047368929634" name="app_name">"गैलरी"</string>
+    <string msgid="1228925628357366957" name="appwidget_empty_text">"कोई फ़ोटो नहीं."</string>
+    <string msgid="6410561146863700411" name="appwidget_title">"फ़ोटो गैलरी"</string>
+    <string msgid="4296941368722892821" name="auto">"स्वत:"</string>
+    <string msgid="1663414996270538748" name="autofix">"स्‍वत: समायोजन"</string>
+    <string msgid="4521059045896269095" name="caching_label">"संचय कर रहा है..."</string>
+    <string msgid="916021826223448591" name="camera_connected">"कैमरा कनेक्‍ट किया गया."</string>
+    <string msgid="2100559901676329496" name="camera_disconnected">"कैमरा डिस्‍कनेक्‍ट किया गया."</string>
+    <string msgid="797463183863414289" name="camera_setas_wallpaper">"वॉलपेपर"</string>
+    <string msgid="3637516880917356226" name="cancel">"रद्द करें"</string>
+    <string msgid="6407959065464291972" name="click_import">"आयात करने के लिए यहां स्पर्श करें"</string>
+    <string msgid="5585646033158453043" name="close">"बंद करें"</string>
+    <string msgid="7358770022173660511" name="confirm_delete">"हटाएं"</string>
+    <string msgid="7598378507763334041" name="crop">"काट-छांट करें"</string>
+    <string msgid="3427470284074377001" name="crop_action">"काट-छांट करें"</string>
+    <string msgid="521114301871349328" name="crop_label">"चित्र काटें"</string>
+    <string msgid="3400773981839556" name="crop_not_saved">"काट-छांट की गई छवि को नहीं सहेजा गया."</string>
+    <string msgid="152200178986698300" name="crop_save_text">"ठीक"</string>
+    <string msgid="1062612625032731770" name="crop_saved">"काट-छांट की गई छवि को डाउनलोड में सहेजा गया."</string>
+    <string msgid="8794037869706891710" name="crop_tooltip">"फ़ोटो की काट-छांट करने के लि‍ए मार्कर को खींचें"</string>
+    <string msgid="4173724489001742342" name="crossprocess">"क्रॉस-प्रोसेस"</string>
+    <string msgid="2839695998251824487" name="delete">"हटाएं"</string>
+    <string msgid="3016729318096557520" name="description">"विवरण"</string>
+    <string msgid="5758897506061723684" name="deselect_all">"सभी का चयन रद्द करें"</string>
+    <string msgid="8415120088556445230" name="details">"विवरण"</string>
+    <string msgid="3215779248094151255" name="details_hms">"%1$d:%2$02d:%3$02d"</string>
+    <string msgid="940634969189855292" name="details_ms">"%1$02d:%2$02d"</string>
+    <string msgid="2611396603977441273" name="details_title">"%2$d में से %1$d आइटम:"</string>
+    <string msgid="50396326708699797" name="documentary">"वृत्तचित्र"</string>
+    <string msgid="217672440064436595" name="done">"पूर्ण"</string>
+    <string msgid="1686409894518940990" name="doodle">"Doodle"</string>
+    <string msgid="2902117272374362915" name="doodle_tooltip">"doodle के लिए फ़ोटो पर आरेखित करें"</string>
+    <string msgid="8145893940788467106" name="duotone">"ड्‍यु-टोन"</string>
+    <string msgid="8160058911218541616" name="duration">"अवधि"</string>
+    <string msgid="1502273844748580847" name="edit">"संपादित करें"</string>
+    <string msgid="3777746536831799890" name="edited_photo_bucket_name">"संपादित"</string>
+    <string msgid="4542880442593595494" name="empty_album">"O छवियां/वीडियो उपलब्‍ध."</string>
+    <string msgid="3990163680281058826" name="exposure_time">"एक्सपोज़र समय"</string>
+    <string msgid="6205748523156172637" name="facelift">"चेहरे की चमक"</string>
+    <string msgid="4412831806626044111" name="facetan">"चेहरे का रंग गहरा"</string>
+    <string msgid="8394392853646664505" name="fail_to_load">"लोड नहीं कर सका"</string>
+    <string msgid="8486169301588318915" name="file_size">"फ़ाइल का आकार"</string>
+    <string msgid="2644989991700022526" name="filllight">"प्रकाश भरें"</string>
+    <string msgid="6037488646928998921" name="fisheye">"फ़िशआई"</string>
+    <string msgid="2816779031261147723" name="flash">"फ़्लैश"</string>
+    <string msgid="1445443413822680010" name="flash_off">"कोई फ़्लैश नहीं"</string>
+    <string msgid="7891556231891837284" name="flash_on">"फ़्लैश चलाया गया"</string>
+    <string msgid="2357692401826287480" name="flip">"फ़्लिप करें"</string>
+    <string msgid="2700943256714731737" name="flip_tooltip">"फ़ोटो को फ़्लिप करने के लिए उसे खींचें"</string>
+    <string msgid="1291383769749877010" name="focal_length">"फ़ोकल लंबाई"</string>
+    <string msgid="8766337315709161215" name="free_space_format">"<ns1:g id="BYTES">%s</ns1:g> रिक्त"</string>
+    <string msgid="259405922673466798" name="gadget_title">"चित्र फ़्रेम"</string>
+    <string msgid="7487585304579789098" name="grain">"फ़िल्म ग्रेन"</string>
+    <string msgid="7641563843060945228" name="grayscale">"श्याम और श्वेत"</string>
+    <string msgid="4308299657902209357" name="group_by">"इसके द्वारा समूहीकृत"</string>
+    <string msgid="1532818636053818958" name="group_by_album">"एल्बम द्वारा"</string>
+    <string msgid="1566351636227274906" name="group_by_faces">"लोगों द्वारा"</string>
+    <string msgid="316641628989023253" name="group_by_location">"स्थान द्वारा"</string>
+    <string msgid="153766174950394155" name="group_by_size">"आकार द्वारा"</string>
+    <string msgid="3568731317210676160" name="group_by_tags">"टैग द्वारा"</string>
+    <string msgid="9046168567717963573" name="group_by_time">"समय द्वारा"</string>
+    <string msgid="3648885449443787772" name="height">"ऊंचाई"</string>
+    <string msgid="3902653944386623972" name="highlight">"हाइलाइट"</string>
+    <string msgid="3875040287486199999" name="import_complete">"आयात पूर्ण"</string>
+    <string msgid="8497942380703298808" name="import_fail">"आयात विफल"</string>
+    <string msgid="5028296664327335940" name="iso">"ISO"</string>
+    <string msgid="7038208555304563571" name="loading">"लोड हो रहा है..."</string>
+    <string msgid="928195413034552034" name="loading_account">"खाता लोड हो रहा है…"</string>
+    <string msgid="5990741970574295950" name="loading_failure">"फ़ोटो लोड नहीं हो सकता"</string>
+    <string msgid="1200894415793838191" name="loading_image">"छवि लोड हो रही है…"</string>
+    <string msgid="4013492720121891585" name="loading_video">"वीडियो लोड हो रहा है..."</string>
+    <string msgid="3432705876921618314" name="location">"स्थान"</string>
+    <string msgid="6649297994083130305" name="locations">"स्‍थान"</string>
+    <string msgid="1270032154357186736" name="lomoish">"लोमो"</string>
+    <string msgid="5157950985488297112" name="make_available_offline">"ऑफ़लाइन उपलब्ध कराएं"</string>
+    <string msgid="7921835498034236197" name="maker">"निर्माता"</string>
+    <string msgid="6608905477477607865" name="manual">"मैन्युअल"</string>
+    <string msgid="8024168704337990470" name="mimetype">"MIME प्रकार"</string>
+    <string msgid="8240207064064337366" name="model">"मॉडल"</string>
+    <string msgid="3526526872644898229" name="movie_view_label">"वीडियो प्‍लेयर"</string>
+    <string msgid="2554690102655855657" name="multiface_crop_help">"शुरू करने के लिए कोई चेहरा स्‍पर्श करें."</string>
+    <string msgid="1985508917342811252" name="negative">"नकारात्मक"</string>
+    <string msgid="5595408018304861875" name="no">"नहीं"</string>
+    <string msgid="4111744447491690896" name="no_albums_alert">"कोई एल्‍बम उपलब्‍ध नहीं."</string>
+    <string msgid="7164037617297293668" name="no_connectivity">"नेटवर्क समस्‍याओं के कारण कुछ स्‍थानों को पहचाना नहीं जा सका."</string>
+    <string msgid="4043624857489331676" name="no_location">"कोई स्थान नहीं"</string>
+    <string msgid="5315144556325243400" name="no_such_item">"आइटम नहीं ढूंढा जा सका."</string>
+    <string msgid="284723185546429750" name="no_thumbnail">"कोई थंबनेल नहीं"</string>
+    <string msgid="4958327983165245513" name="orientation">"अभिविन्‍यास"</string>
+    <string msgid="4725740395885105824" name="path">"पथ"</string>
+    <string msgid="4114003823747292747" name="people">"लोग"</string>
+    <string msgid="3494363661299484657" name="photo_saved">"फ़ोटो <ns1:g id="ALBUM_NAME">%s</ns1:g> एल्‍बम में सहेजा गया"</string>
+    <string msgid="4738587346771969697" name="photoeditor_name">"Photo Studio"</string>
+    <string msgid="1497721615718760613" name="picasa_posts">"पोस्ट"</string>
+    <string msgid="4139212359561383385" name="posterize">"पोस्टराइज़"</string>
+    <string msgid="8722939570307386071" name="process_caching_requests">"संचय अनुरोध संसाधित कर रहा है"</string>
+    <string msgid="4958448806369928239" name="redeye">"रेड आई"</string>
+    <string msgid="9112774042113471358" name="redeye_tooltip">"रेड आई निकालने के लिए टैप करें"</string>
+    <string msgid="5184414518126703481" name="resume_playing_message">"%s से फिर से चलाना शुरू करें ?"</string>
+    <string msgid="5471008499835769292" name="resume_playing_restart">"पुन: प्रारंभ करें"</string>
+    <string msgid="3847915469173852416" name="resume_playing_resume">"चलाना फिर से शुरू करें"</string>
+    <string msgid="8996677350649355013" name="resume_playing_title">"वीडियो फिर से शुरू करें"</string>
+    <string msgid="6607597269792373083" name="rotate">"घुमाएं"</string>
+    <string msgid="5888273317282539839" name="rotate_left">"बाएं घुमाएं"</string>
+    <string msgid="6776325835923384839" name="rotate_right">"दाएं घुमाएं"</string>
+    <string msgid="7008602969130734229" name="rotate_tooltip">"घुमाने के लिए फ़ोटो को खींचें"</string>
+    <string msgid="8621322012271169931" name="saturation">"संतृप्तता"</string>
+    <string msgid="5516670392524294967" name="save">"सहेजें"</string>
+    <string msgid="6857408774183654970" name="save_error">"काट-छांट की गई छवि को नहीं सहेज सका."</string>
+    <string msgid="3125109368779997862" name="save_photo">"संपादित फ़ोटो सहेजें?"</string>
+    <string msgid="8596600582621364077" name="saving_failure">"फ़ोटो सहेजा नहीं जा सकता"</string>
+    <string msgid="7270334453636349407" name="saving_image">"चित्र सहेज रहा है…"</string>
+    <string msgid="4632641262236697235" name="select_album">"एल्‍बम का चयन करें"</string>
+    <string msgid="3403283025220282175" name="select_all">"सभी का चयन करें"</string>
+    <string msgid="9090385962030340391" name="select_group">"समूह का चयन करें"</string>
+    <string msgid="7841406150484742140" name="select_image">"फ़ोटो का चयन करें"</string>
+    <string msgid="2257529413100472599" name="select_item">"आइटम चुनें"</string>
+    <string msgid="4859510992798615076" name="select_video">"वीडियो का चयन करें"</string>
+    <string msgid="7978093531824705601" name="sepia">"सेपिया"</string>
+    <string msgid="7235465319919457488" name="sequence_in_set">"%2$d में से %1$d आइटम:"</string>
+    <string msgid="3636764710790507868" name="set_as">"इस रूप में सेट करें"</string>
+    <string msgid="2331476809308010401" name="set_image">"चित्र इस रूप में सेट करें"</string>
+    <string msgid="4581863582996336783" name="set_label_all_albums">"सभी एल्बम"</string>
+    <string msgid="6698133661656266702" name="set_label_local_albums">"स्थानीय एल्बम"</string>
+    <string msgid="1283513183744896368" name="set_label_mtp_devices">"MTP उपकरण"</string>
+    <string msgid="5356258354953935895" name="set_label_picasa_albums">"Picasa एल्बम"</string>
+    <string msgid="1534847740615665736" name="settings">"सेटिंग"</string>
+    <string msgid="8235188588101973090" name="shadow">"छाया"</string>
+    <string msgid="3619042788254195341" name="share">"शेयर करें"</string>
+    <string msgid="8449662378104403230" name="sharpen">"शार्प करें"</string>
+    <string msgid="4780647751652596980" name="show_all">"छवियां और वीडियो"</string>
+    <string msgid="7263218480867672653" name="show_images_only">"केवल छवियां"</string>
+    <string msgid="6157544221201750980" name="show_on_map">"मानचित्र पर दिखाएं"</string>
+    <string msgid="3850394623678871697" name="show_videos_only">"केवल वीडियो"</string>
+    <string msgid="5324398253474104087" name="size_above">"<ns1:g id="SIZE">%1$s</ns1:g> या अधिक"</string>
+    <string msgid="2074956730721942260" name="size_below">"<ns1:g id="SIZE">%1$s</ns1:g> या कम"</string>
+    <string msgid="8779660840898917208" name="size_between">"<ns1:g id="MIN_SIZE">%1$s</ns1:g> से <ns1:g id="MAX_SIZE">%2$s</ns1:g>"</string>
+    <string msgid="4355906903247112975" name="slideshow">"स्लाइडशो"</string>
+    <string msgid="6915963319933437083" name="slideshow_dream_name">"स्लाइडशो"</string>
+    <string msgid="5217801513491493491" name="straighten">"सीधा करें"</string>
+    <string msgid="4846317027139212339" name="straighten_tooltip">"सीधा करने के लिए फ़ोटो को खींचें"</string>
+    <string msgid="7280111806675169992" name="switch_to_camera">"कैमरे पर जाएं"</string>
+    <string msgid="2218733298953719785" name="sync_album_error">"इस एल्बम में फ़ोटो डाउनलोड करना विफल हो गया है. कृपया बाद में पुनः प्रयास करें."</string>
+    <string msgid="9016732535181154028" name="sync_album_set_error">"एल्बम की सूची डाउनलोड करना विफल हो गया है. कृपया बाद में पुनः प्रयास करें."</string>
+    <string msgid="8522572542111169872" name="sync_picasa_albums">"रीफ्रेश करें"</string>
+    <string msgid="5539648765482935955" name="tags">"टैग"</string>
+    <string msgid="1607987938521534517" name="temperature">"उत्‍साह"</string>
+    <string msgid="1367953006052876956" name="time">"समय"</string>
+    <string msgid="2023033894889499219" name="times">"इतने बार"</string>
+    <string msgid="154435943863418434" name="tint">"टिंट"</string>
+    <string msgid="7622928349908052569" name="title">"शीर्षक"</string>
+    <string msgid="2184754031896160755" name="try_to_set_local_album_available_offline">"यह आइटम स्‍थानीय रूप से संग्रहीत है और ऑफ़लाइन उपलब्‍ध है."</string>
+    <string msgid="1125768433254329136" name="unit_mm">"mm"</string>
+    <string msgid="7281481064509590402" name="untagged">"टैग नहीं किया गया"</string>
+    <string msgid="7003051631792271009" name="video_err">"वीडियो नहीं चल सकता."</string>
+    <string msgid="7648125924662648282" name="vignette">"विनेट"</string>
+    <string msgid="140165383777262070" name="wallpaper">"वॉलपेपर सेट कर रहा है..."</string>
+    <string msgid="1582509289994216078" name="white_balance">"श्वेत संतुलन"</string>
+    <string msgid="2161028964992385809" name="widget_type">"विजेट प्रकार"</string>
+    <string msgid="3245149644830731121" name="widget_type_album">"किसी एल्‍बम की छवियां"</string>
+    <string msgid="6267065337367795355" name="widget_type_photo">"कोई छवि चुनें"</string>
+    <string msgid="8594622705019763768" name="widget_type_shuffle">"सभी छवियों का क्रम बदलें"</string>
+    <string msgid="9215847239714321097" name="width">"चौड़ाई"</string>
+    <string msgid="5402582493291792293" name="yes">"हां"</string>
+</resources>

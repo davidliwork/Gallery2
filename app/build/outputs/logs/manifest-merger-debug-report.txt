@@ -1,0 +1,397 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:3:1-265:12
+	package
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:6:9-42
+		INJECTED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:4:9-40
+		INJECTED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:3:11-38
+		INJECTED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:5:9-67
+original-package
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:8:5-62
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:8:23-59
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.INTERNET
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:15:5-74
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:15:22-71
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:16:5-77
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:16:22-74
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:17:5-72
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:17:22-69
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:18:5-74
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:18:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:19:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:20:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:22:5-78
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:22:22-75
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:23:5-73
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:23:22-70
+supports-screens
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:25:5-27:41
+	android:largeScreens
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:26:42-69
+	android:smallScreens
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:25:23-51
+	android:normalScreens
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:26:13-41
+	android:anyDensity
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:27:13-38
+application
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:29:5-264:19
+	android:label
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:29:61-93
+	android:icon
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:29:18-60
+	android:theme
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:31:13-49
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:30:13-68
+activity#com.android.gallery3d.app.MovieActivity
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:32:9-68:20
+	android:label
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:33:17-57
+	android:configChanges
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:34:17-78
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:32:19-73
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:35:13-40:30
+action#android.intent.action.VIEW
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:37:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:38:17-78
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:38:27-75
+data
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:39:17-47
+	android:scheme
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:39:23-44
+activity#com.android.gallery3d.app.Gallery
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:70:9-140:20
+	android:label
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:70:68-100
+	android:configChanges
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:71:17-78
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:70:19-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:72:13-75:29
+action#android.intent.action.MAIN
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:73:17-69
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:73:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:74:17-77
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:74:27-74
+intent-filter#android.intent.action.GET_CONTENT+android.intent.category.OPENABLE
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:76:13-80:29
+action#android.intent.action.GET_CONTENT
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:77:17-76
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:77:25-73
+category#android.intent.category.OPENABLE
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:78:17-77
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:78:27-74
+intent-filter#android.intent.action.GET_CONTENT+android.intent.category.DEFAULT+android.intent.category.OPENABLE
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:81:13-87:29
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:88:13-93:29
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT+com.android.camera.action.REVIEW
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:94:13-110:29
+action#com.android.camera.action.REVIEW
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:96:17-75
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:96:25-72
+intent-filter#android.intent.category.BROWSABLE+android.intent.category.DEFAULT+com.android.camera.action.REVIEW
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:111:13-125:29
+intent-filter#android.intent.action.PICK+android.intent.category.DEFAULT
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:128:13-133:29
+action#android.intent.action.PICK
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:129:17-69
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:129:25-66
+activity-alias#com.cooliris.media.Gallery
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:144:9-151:26
+	android:label
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:147:17-48
+	android:targetActivity
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:145:17-75
+	android:configChanges
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:146:17-78
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:144:25-66
+intent-filter#android.intent.action.MAIN
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:148:13-150:29
+activity#com.android.gallery3d.app.UsbDeviceActivity
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:154:9-162:20
+	android:label
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:154:78-110
+	android:launchMode
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:156:17-52
+	android:taskAffinity
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:155:17-40
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:154:19-77
+intent-filter#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:157:13-159:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:158:17-90
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:158:25-87
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:160:13-161:57
+	android:resource
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:161:17-54
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:160:24-86
+activity#com.android.gallery3d.app.Wallpaper
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:164:9-178:20
+	android:configChanges
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:165:17-78
+	android:theme
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:166:17-76
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:164:19-69
+intent-filter#android.intent.action.ATTACH_DATA+android.intent.category.DEFAULT
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:167:13-171:29
+	android:label
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:167:28-74
+action#android.intent.action.ATTACH_DATA
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:168:17-76
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:168:25-73
+intent-filter#android.intent.action.SET_WALLPAPER+android.intent.category.DEFAULT
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:172:13-175:29
+	android:label
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:172:28-60
+action#android.intent.action.SET_WALLPAPER
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:173:17-78
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:173:25-75
+meta-data#android.wallpaper.preview
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:176:13-177:72
+	android:resource
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:177:21-69
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:176:24-64
+activity#com.android.gallery3d.app.CropImage
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:179:9-195:20
+	android:process
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:182:17-40
+	android:label
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:181:17-51
+	android:configChanges
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:180:17-78
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:179:19-69
+intent-filter#android.intent.category.ALTERNATIVE+android.intent.category.DEFAULT+android.intent.category.SELECTED_ALTERNATIVE+com.android.camera.action.CROP
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:183:13-194:29
+	android:label
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:183:28-62
+action#com.android.camera.action.CROP
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:184:17-73
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:184:25-70
+category#android.intent.category.ALTERNATIVE
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:192:17-80
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:192:27-77
+category#android.intent.category.SELECTED_ALTERNATIVE
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:193:17-89
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:193:27-86
+activity#com.android.gallery3d.photoeditor.PhotoEditor
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:196:9-206:20
+	android:label
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:197:17-57
+	android:hardwareAccelerated
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:200:17-51
+	android:configChanges
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:199:17-78
+	android:theme
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:198:17-81
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:196:19-79
+intent-filter#android.intent.action.EDIT+android.intent.category.DEFAULT
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:201:13-205:29
+action#android.intent.action.EDIT
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:202:17-69
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:202:25-66
+uses-library#com.google.android.media.effects
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:207:9-208:44
+	android:required
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:208:17-41
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:207:23-70
+activity#com.android.gallery3d.app.SlideshowDream
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:210:9-219:20
+	android:label
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:211:17-61
+	android:hardwareAccelerated
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:213:17-51
+	android:theme
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:212:17-81
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:210:19-74
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.DREAM
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:214:13-218:29
+category#android.intent.category.DREAM
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:217:17-74
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:217:27-71
+activity#com.android.gallery3d.settings.GallerySettings
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:221:9-223:81
+	android:configChanges
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:223:17-78
+	android:theme
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:222:17-58
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:221:19-80
+provider#com.android.gallery3d.provider.GalleryProvider
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:225:9-228:72
+	android:authorities
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:228:17-69
+	android:grantUriPermissions
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:227:17-51
+	android:syncable
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:226:17-41
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:225:19-80
+activity#com.android.gallery3d.gadget.WidgetClickHandler
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:229:9-84
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:229:19-81
+activity#com.android.gallery3d.app.DialogPicker
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:230:9-232:59
+	android:configChanges
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:231:17-78
+	android:theme
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:232:17-57
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:230:19-72
+activity#com.android.gallery3d.app.AlbumPicker
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:233:9-235:59
+	android:configChanges
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:234:17-78
+	android:theme
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:235:17-57
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:233:19-71
+activity#com.android.gallery3d.gadget.WidgetTypeChooser
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:236:9-238:59
+	android:configChanges
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:237:17-78
+	android:theme
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:238:17-57
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:236:19-80
+receiver#com.android.gallery3d.gadget.PhotoAppWidgetProvider
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:240:9-247:20
+	android:label
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:241:17-56
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:240:19-85
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:242:13-244:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:243:17-84
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:243:25-81
+meta-data#android.appwidget.provider
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:245:13-246:59
+	android:resource
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:246:21-56
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:245:24-65
+receiver#com.android.gallery3d.app.PackagesMonitor
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:248:9-254:20
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:248:19-75
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:249:13-253:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:250:17-77
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:250:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:251:17-79
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:251:25-77
+service#com.android.gallery3d.gadget.WidgetService
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:255:9-256:75
+	android:permission
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:256:17-73
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:255:18-75
+activity#com.android.gallery3d.gadget.WidgetConfigure
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:257:9-263:20
+	android:configChanges
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:258:17-78
+	android:theme
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:259:17-76
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:257:19-78
+intent-filter#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:260:13-262:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:261:17-87
+	android:name
+		ADDED from C:\AndroidProject\Gallery2\app\src\main\AndroidManifest.xml:261:25-84

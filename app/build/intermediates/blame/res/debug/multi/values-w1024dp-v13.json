@@ -1,0 +1,70 @@
+[
+    {
+        "outputFile": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w1024dp-v13\\values-w1024dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 14,
+                    "endOffset": 284
+                },
+                "from": {
+                    "file": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\values-w1024dp\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1210,
+                        "endLine": 31,
+                        "endColumn": 14,
+                        "endOffset": 1439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 289,
+                    "endLine": 11,
+                    "endColumn": 14,
+                    "endOffset": 518
+                },
+                "from": {
+                    "file": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\values-w1024dp\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1566,
+                        "endLine": 39,
+                        "endColumn": 14,
+                        "endOffset": 1795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 523,
+                    "endLine": 16,
+                    "endColumn": 14,
+                    "endOffset": 748
+                },
+                "from": {
+                    "file": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\values-w1024dp\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 858,
+                        "endLine": 23,
+                        "endColumn": 14,
+                        "endOffset": 1083
+                    }
+                }
+            }
+        ]
+    }
+]

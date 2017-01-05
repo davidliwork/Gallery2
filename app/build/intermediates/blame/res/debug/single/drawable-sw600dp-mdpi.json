@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi\\ic_video_thumb.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\ic_video_thumb.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi\\ic_vidcontrol_play.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\ic_vidcontrol_play.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi\\scrubber_knob.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\scrubber_knob.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi\\bg_vidcontrol.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\bg_vidcontrol.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi\\ic_vidcontrol_reload.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\ic_vidcontrol_reload.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi\\ic_pan_thumb.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\ic_pan_thumb.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi\\ic_vidcontrol_pause.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\ic_vidcontrol_pause.png"
+    }
+]

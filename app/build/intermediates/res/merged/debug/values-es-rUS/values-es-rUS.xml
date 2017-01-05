@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="make_albums_available_offline">
+    <item msgid="2171596356101611086" quantity="one">"Permitiendo que el álbum esté disponible sin conexión"</item>
+    <item msgid="4948604338155959389" quantity="other">"Permitiendo que los álbumes estén disponibles sin conexión"</item>
+  </plurals>
+    <plurals name="number_of_albums_selected">
+    <item msgid="749292746814788132" quantity="zero">"%1$d seleccionado(s)"</item>
+    <item msgid="6184377003099987825" quantity="one">"%1$d seleccionado(s)"</item>
+    <item msgid="53105607141906130" quantity="other">"%1$d seleccionado(s)"</item>
+  </plurals>
+    <plurals name="number_of_groups_selected">
+    <item msgid="3466388370310869238" quantity="zero">"%1$d seleccionado(s)"</item>
+    <item msgid="5030162638216034260" quantity="one">"%1$d seleccionado(s)"</item>
+    <item msgid="3512041363942842738" quantity="other">"%1$d seleccionado(s)"</item>
+  </plurals>
+    <plurals name="number_of_items_selected">
+    <item msgid="2142579311530586258" quantity="zero">"%1$d seleccionado(s)"</item>
+    <item msgid="2478365152745637768" quantity="one">"%1$d seleccionado(s)"</item>
+    <item msgid="754722656147810487" quantity="other">"%1$d seleccionado(s)"</item>
+  </plurals>
+    <string msgid="3985447518557474672" name="Import">"Importar"</string>
+    <string msgid="5619154886080878023" name="activity_not_found">"No hay aplicaciones para completar la acción."</string>
+    <string msgid="4271217504968243974" name="add_account">"Agregar cuenta"</string>
+    <string msgid="7320787705180057947" name="albums">"Álbumes"</string>
+    <string msgid="5920657630303915195" name="aperture">"Apertura"</string>
+    <string msgid="1928079047368929634" name="app_name">"Galería"</string>
+    <string msgid="1228925628357366957" name="appwidget_empty_text">"No hay fotos."</string>
+    <string msgid="6410561146863700411" name="appwidget_title">"Galería de fotos"</string>
+    <string msgid="4296941368722892821" name="auto">"Automático"</string>
+    <string msgid="1663414996270538748" name="autofix">"Autocorrección"</string>
+    <string msgid="4521059045896269095" name="caching_label">"Alm en caché..."</string>
+    <string msgid="916021826223448591" name="camera_connected">"Se conectó la cámara."</string>
+    <string msgid="2100559901676329496" name="camera_disconnected">"Se desconectó la cámara."</string>
+    <string msgid="797463183863414289" name="camera_setas_wallpaper">"Papel tapiz"</string>
+    <string msgid="3637516880917356226" name="cancel">"Cancelar"</string>
+    <string msgid="6407959065464291972" name="click_import">"Toca aquí para importar."</string>
+    <string msgid="5585646033158453043" name="close">"Cerca"</string>
+    <string msgid="7358770022173660511" name="confirm_delete">"Borrar"</string>
+    <string msgid="7598378507763334041" name="crop">"Recortar"</string>
+    <string msgid="3427470284074377001" name="crop_action">"Recortar"</string>
+    <string msgid="521114301871349328" name="crop_label">"Recortar imagen"</string>
+    <string msgid="3400773981839556" name="crop_not_saved">"No se ha guardado la imagen recortada."</string>
+    <string msgid="152200178986698300" name="crop_save_text">"Aceptar"</string>
+    <string msgid="1062612625032731770" name="crop_saved">"La imagen recortada se guardó en Descargas."</string>
+    <string msgid="8794037869706891710" name="crop_tooltip">"Arrastrar los marcadores para recortar la foto"</string>
+    <string msgid="4173724489001742342" name="crossprocess">"Proceso cruzado"</string>
+    <string msgid="2839695998251824487" name="delete">"Eliminar"</string>
+    <string msgid="3016729318096557520" name="description">"Descripción"</string>
+    <string msgid="5758897506061723684" name="deselect_all">"Desmarcar todo"</string>
+    <string msgid="8415120088556445230" name="details">"Detalles"</string>
+    <string msgid="3215779248094151255" name="details_hms">"%1$d:%2$02d:%3$02d"</string>
+    <string msgid="940634969189855292" name="details_ms">"%1$02d:%2$02d"</string>
+    <string msgid="2611396603977441273" name="details_title">"%1$d de %2$d elementos:"</string>
+    <string msgid="50396326708699797" name="documentary">"Documental"</string>
+    <string msgid="217672440064436595" name="done">"Listo"</string>
+    <string msgid="1686409894518940990" name="doodle">"Garabatear"</string>
+    <string msgid="2902117272374362915" name="doodle_tooltip">"Dibuja en la foto para hacer garabatos"</string>
+    <string msgid="8145893940788467106" name="duotone">"Dos tonos"</string>
+    <string msgid="8160058911218541616" name="duration">"Duración"</string>
+    <string msgid="1502273844748580847" name="edit">"Editar"</string>
+    <string msgid="3777746536831799890" name="edited_photo_bucket_name">"Editadas"</string>
+    <string msgid="4542880442593595494" name="empty_album">"No hay imágenes/videos disponibles."</string>
+    <string msgid="3990163680281058826" name="exposure_time">"Tiempo de exposición"</string>
+    <string msgid="6205748523156172637" name="facelift">"Brillo facial"</string>
+    <string msgid="4412831806626044111" name="facetan">"Bronceado facial"</string>
+    <string msgid="8394392853646664505" name="fail_to_load">"No se pudo cargar"</string>
+    <string msgid="8486169301588318915" name="file_size">"Tamaño del archivo"</string>
+    <string msgid="2644989991700022526" name="filllight">"Aumentar brillo"</string>
+    <string msgid="6037488646928998921" name="fisheye">"Ojo de pez"</string>
+    <string msgid="2816779031261147723" name="flash">"Flash"</string>
+    <string msgid="1445443413822680010" name="flash_off">"Sin flash"</string>
+    <string msgid="7891556231891837284" name="flash_on">"Flash activado"</string>
+    <string msgid="2357692401826287480" name="flip">"Cambiar"</string>
+    <string msgid="2700943256714731737" name="flip_tooltip">"Arrastra la foto para darla vuelta"</string>
+    <string msgid="1291383769749877010" name="focal_length">"Longitud focal"</string>
+    <string msgid="8766337315709161215" name="free_space_format">"<ns1:g id="BYTES">%s</ns1:g> libre"</string>
+    <string msgid="259405922673466798" name="gadget_title">"Marco de imagen"</string>
+    <string msgid="7487585304579789098" name="grain">"Grano de la película"</string>
+    <string msgid="7641563843060945228" name="grayscale">"Blanco y negro"</string>
+    <string msgid="4308299657902209357" name="group_by">"Agrupar por"</string>
+    <string msgid="1532818636053818958" name="group_by_album">"Por álbum"</string>
+    <string msgid="1566351636227274906" name="group_by_faces">"Por persona"</string>
+    <string msgid="316641628989023253" name="group_by_location">"Por ubicación"</string>
+    <string msgid="153766174950394155" name="group_by_size">"Por tamaño"</string>
+    <string msgid="3568731317210676160" name="group_by_tags">"Por etiquetas"</string>
+    <string msgid="9046168567717963573" name="group_by_time">"Por fecha"</string>
+    <string msgid="3648885449443787772" name="height">"Altura"</string>
+    <string msgid="3902653944386623972" name="highlight">"Destacadas"</string>
+    <string msgid="3875040287486199999" name="import_complete">"La importación ha finalizado."</string>
+    <string msgid="8497942380703298808" name="import_fail">"Error al importar"</string>
+    <string msgid="5028296664327335940" name="iso">"ISO"</string>
+    <string msgid="7038208555304563571" name="loading">"Cargando…"</string>
+    <string msgid="928195413034552034" name="loading_account">"Cargando cuenta..."</string>
+    <string msgid="5990741970574295950" name="loading_failure">"No se puede cargar la foto."</string>
+    <string msgid="1200894415793838191" name="loading_image">"Cargando imagen..."</string>
+    <string msgid="4013492720121891585" name="loading_video">"Cargando el video..."</string>
+    <string msgid="3432705876921618314" name="location">"Ubicación"</string>
+    <string msgid="6649297994083130305" name="locations">"Ubicaciones"</string>
+    <string msgid="1270032154357186736" name="lomoish">"Lomografía"</string>
+    <string msgid="5157950985488297112" name="make_available_offline">"Hacer disponible sin conexión"</string>
+    <string msgid="7921835498034236197" name="maker">"Creador"</string>
+    <string msgid="6608905477477607865" name="manual">"Manual"</string>
+    <string msgid="8024168704337990470" name="mimetype">"Tipo de MIME"</string>
+    <string msgid="8240207064064337366" name="model">"Modelo"</string>
+    <string msgid="3526526872644898229" name="movie_view_label">"Reproductor de video."</string>
+    <string msgid="2554690102655855657" name="multiface_crop_help">"Toca una cara para comenzar."</string>
+    <string msgid="1985508917342811252" name="negative">"negativo"</string>
+    <string msgid="5595408018304861875" name="no">"No"</string>
+    <string msgid="4111744447491690896" name="no_albums_alert">"No hay álbumes disponibles."</string>
+    <string msgid="7164037617297293668" name="no_connectivity">"No se pudieron identificar algunas ubicaciones debido a problemas de la red."</string>
+    <string msgid="4043624857489331676" name="no_location">"No hay ubicación"</string>
+    <string msgid="5315144556325243400" name="no_such_item">"No se pudo encontrar el elemento."</string>
+    <string msgid="284723185546429750" name="no_thumbnail">"Sin miniatura"</string>
+    <string msgid="4958327983165245513" name="orientation">"Orientación"</string>
+    <string msgid="4725740395885105824" name="path">"Ruta"</string>
+    <string msgid="4114003823747292747" name="people">"Personas"</string>
+    <string msgid="3494363661299484657" name="photo_saved">"La foto se guardó en el álbum <ns1:g id="ALBUM_NAME">%s</ns1:g>."</string>
+    <string msgid="4738587346771969697" name="photoeditor_name">"Estudio de fotografía"</string>
+    <string msgid="1497721615718760613" name="picasa_posts">"Publicaciones"</string>
+    <string msgid="4139212359561383385" name="posterize">"Posterizar"</string>
+    <string msgid="8722939570307386071" name="process_caching_requests">"Procesando solicitudes de almacenamiento en caché"</string>
+    <string msgid="4958448806369928239" name="redeye">"Ojos rojos"</string>
+    <string msgid="9112774042113471358" name="redeye_tooltip">"Toca para eliminar los ojos rojos"</string>
+    <string msgid="5184414518126703481" name="resume_playing_message">"¿Deseas retomar la reproducción desde %s?"</string>
+    <string msgid="5471008499835769292" name="resume_playing_restart">"Empezar de nuevo"</string>
+    <string msgid="3847915469173852416" name="resume_playing_resume">"Retomar la reproducción"</string>
+    <string msgid="8996677350649355013" name="resume_playing_title">"Retomar video"</string>
+    <string msgid="6607597269792373083" name="rotate">"Girar"</string>
+    <string msgid="5888273317282539839" name="rotate_left">"Rotar hacia la izquierda"</string>
+    <string msgid="6776325835923384839" name="rotate_right">"Rotar hacia la derecha"</string>
+    <string msgid="7008602969130734229" name="rotate_tooltip">"Arrastra la foto para hacerla girar"</string>
+    <string msgid="8621322012271169931" name="saturation">"Saturación"</string>
+    <string msgid="5516670392524294967" name="save">"GUARDAR"</string>
+    <string msgid="6857408774183654970" name="save_error">"No se pudo guardar la imagen recortada."</string>
+    <string msgid="3125109368779997862" name="save_photo">"¿Guardar foto editada?"</string>
+    <string msgid="8596600582621364077" name="saving_failure">"No se puede guardar la foto."</string>
+    <string msgid="7270334453636349407" name="saving_image">"Guardando imagen..."</string>
+    <string msgid="4632641262236697235" name="select_album">"Seleccionar álbumes"</string>
+    <string msgid="3403283025220282175" name="select_all">"Seleccionar todo"</string>
+    <string msgid="9090385962030340391" name="select_group">"Seleccionar grupo(s)"</string>
+    <string msgid="7841406150484742140" name="select_image">"Seleccionar foto"</string>
+    <string msgid="2257529413100472599" name="select_item">"Selecc. elemento(s)"</string>
+    <string msgid="4859510992798615076" name="select_video">"Seleccionar video"</string>
+    <string msgid="7978093531824705601" name="sepia">"Sepia"</string>
+    <string msgid="7235465319919457488" name="sequence_in_set">"%1$d de %2$d elementos:"</string>
+    <string msgid="3636764710790507868" name="set_as">"Establecer como"</string>
+    <string msgid="2331476809308010401" name="set_image">"Establecer imagen como"</string>
+    <string msgid="4581863582996336783" name="set_label_all_albums">"Todos los álbumes"</string>
+    <string msgid="6698133661656266702" name="set_label_local_albums">"Álbumes locales"</string>
+    <string msgid="1283513183744896368" name="set_label_mtp_devices">"Dispositivos MTP"</string>
+    <string msgid="5356258354953935895" name="set_label_picasa_albums">"Álbumes de Picasa"</string>
+    <string msgid="1534847740615665736" name="settings">"Configuración"</string>
+    <string msgid="8235188588101973090" name="shadow">"Sombras"</string>
+    <string msgid="3619042788254195341" name="share">"Compartir"</string>
+    <string msgid="8449662378104403230" name="sharpen">"Mejorar nitidez"</string>
+    <string msgid="4780647751652596980" name="show_all">"Imágenes y videos"</string>
+    <string msgid="7263218480867672653" name="show_images_only">"Sólo imágenes"</string>
+    <string msgid="6157544221201750980" name="show_on_map">"Mostrar en el mapa"</string>
+    <string msgid="3850394623678871697" name="show_videos_only">"Sólo videos"</string>
+    <string msgid="5324398253474104087" name="size_above">"<ns1:g id="SIZE">%1$s</ns1:g> o más"</string>
+    <string msgid="2074956730721942260" name="size_below">"<ns1:g id="SIZE">%1$s</ns1:g> o menos"</string>
+    <string msgid="8779660840898917208" name="size_between">"<ns1:g id="MIN_SIZE">%1$s</ns1:g> a <ns1:g id="MAX_SIZE">%2$s</ns1:g>"</string>
+    <string msgid="4355906903247112975" name="slideshow">"Presentación de diapositivas"</string>
+    <string msgid="6915963319933437083" name="slideshow_dream_name">"Presentación de diapositivas"</string>
+    <string msgid="5217801513491493491" name="straighten">"Enderezar"</string>
+    <string msgid="4846317027139212339" name="straighten_tooltip">"Arrastra la foto para enderezarla"</string>
+    <string msgid="7280111806675169992" name="switch_to_camera">"Cambiar a cámara"</string>
+    <string msgid="2218733298953719785" name="sync_album_error">"Se produjo un error al descargar las fotos en este álbum. Vuelve a intentarlo más tarde."</string>
+    <string msgid="9016732535181154028" name="sync_album_set_error">"Se produjo un error al descargar la lista de álbumes. Vuelve a intentarlo más tarde."</string>
+    <string msgid="8522572542111169872" name="sync_picasa_albums">"Actualizar"</string>
+    <string msgid="5539648765482935955" name="tags">"Etiquetas"</string>
+    <string msgid="1607987938521534517" name="temperature">"Calor"</string>
+    <string msgid="1367953006052876956" name="time">"Hora"</string>
+    <string msgid="2023033894889499219" name="times">"Horarios"</string>
+    <string msgid="154435943863418434" name="tint">"Matiz"</string>
+    <string msgid="7622928349908052569" name="title">"Título"</string>
+    <string msgid="2184754031896160755" name="try_to_set_local_album_available_offline">"Este elemento se guardó de manera local y se encuentra disponible sin conexión."</string>
+    <string msgid="1125768433254329136" name="unit_mm">"mm"</string>
+    <string msgid="7281481064509590402" name="untagged">"No etiquetado"</string>
+    <string msgid="7003051631792271009" name="video_err">"No se puede reproducir el video."</string>
+    <string msgid="7648125924662648282" name="vignette">"Viñeta"</string>
+    <string msgid="140165383777262070" name="wallpaper">"Estableciendo fondo de pantalla..."</string>
+    <string msgid="1582509289994216078" name="white_balance">"Balance de blancos"</string>
+    <string msgid="2161028964992385809" name="widget_type">"Tipo de widget"</string>
+    <string msgid="3245149644830731121" name="widget_type_album">"Imágenes de un álbum"</string>
+    <string msgid="6267065337367795355" name="widget_type_photo">"Elegir una imagen"</string>
+    <string msgid="8594622705019763768" name="widget_type_shuffle">"Reproducir todas las imágenes aleatoriamente"</string>
+    <string msgid="9215847239714321097" name="width">"Ancho"</string>
+    <string msgid="5402582493291792293" name="yes">"Sí"</string>
+</resources>

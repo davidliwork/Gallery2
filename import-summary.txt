@@ -1,0 +1,81 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* Android.mk
+* proguard.flags
+* src_pd\
+* src_pd\com\
+* src_pd\com\android\
+* src_pd\com\android\gallery3d\
+* src_pd\com\android\gallery3d\picasasource\
+* src_pd\com\android\gallery3d\picasasource\PicasaSource.java
+* src_pd\com\android\gallery3d\settings\
+* src_pd\com\android\gallery3d\settings\GallerySettings.java
+* tests\
+* tests\Android.mk
+* tests\AndroidManifest.xml
+* tests\src\
+* tests\src\com\
+* tests\src\com\android\
+* tests\src\com\android\gallery3d\
+* tests\src\com\android\gallery3d\anim\
+* tests\src\com\android\gallery3d\anim\AnimationTest.java
+* tests\src\com\android\gallery3d\common\
+* tests\src\com\android\gallery3d\common\BlobCacheTest.java
+* tests\src\com\android\gallery3d\common\UtilsTest.java
+* tests\src\com\android\gallery3d\data\
+* tests\src\com\android\gallery3d\data\GalleryAppMock.java
+* tests\src\com\android\gallery3d\data\GalleryAppStub.java
+* tests\src\com\android\gallery3d\data\LocalDataTest.java
+* tests\src\com\android\gallery3d\data\MediaSetTest.java
+* tests\src\com\android\gallery3d\data\MockItem.java
+* tests\src\com\android\gallery3d\data\MockSet.java
+* tests\src\com\android\gallery3d\data\MockSource.java
+* tests\src\com\android\gallery3d\data\PathTest.java
+* tests\src\com\android\gallery3d\data\RealDataTest.java
+* tests\src\com\android\gallery3d\ui\
+* tests\src\com\android\gallery3d\ui\GLCanvasMock.java
+* tests\src\com\android\gallery3d\ui\GLCanvasStub.java
+* tests\src\com\android\gallery3d\ui\GLCanvasTest.java
+* tests\src\com\android\gallery3d\ui\GLMock.java
+* tests\src\com\android\gallery3d\ui\GLRootMock.java
+* tests\src\com\android\gallery3d\ui\GLRootStub.java
+* tests\src\com\android\gallery3d\ui\GLStub.java
+* tests\src\com\android\gallery3d\ui\GLViewMock.java
+* tests\src\com\android\gallery3d\ui\GLViewTest.java
+* tests\src\com\android\gallery3d\ui\PointerInfo.java
+* tests\src\com\android\gallery3d\ui\TextureTest.java
+* tests\src\com\android\gallery3d\util\
+* tests\src\com\android\gallery3d\util\IntArrayTest.java
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* libs\android-support-v13.jar => app\libs\android-support-v13.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cropimage.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\cropimage.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photoeditor_flip_view.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\photoeditor_flip_view.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photoeditor_actionbar.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\photoeditor_actionbar.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photoeditor_touch_view.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\photoeditor_touch_view.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photoeditor_crop_view.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\photoeditor_crop_view.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photoeditor_rotate_view.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\photoeditor_rotate_view.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photoeditor_effects_color.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\photoeditor_effects_color.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_frame.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\photo_frame.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\manage_offline_bar.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\manage_offline_bar.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photoeditor_effects_menu.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\photoeditor_effects_menu.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photoeditor_effects_fix.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\photoeditor_effects_fix.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\details.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\details.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\movie_view.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\movie_view.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photoeditor_main.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\photoeditor_main.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photoeditor_effects_artistic.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\photoeditor_effects_artistic.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photoeditor_effect_tool_panel.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\photoeditor_effect_tool_panel.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appwidget_loading_item.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\appwidget_loading_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photoeditor_color_seekbar.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\photoeditor_color_seekbar.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_bar_text.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\action_bar_text.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appwidget_photo_item.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\appwidget_photo_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photoeditor_doodle_view.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\photoeditor_doodle_view.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photoeditor_scale_seekbar.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\photoeditor_scale_seekbar.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\details_list.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\details_list.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photoeditor_effects_exposure.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\photoeditor_effects_exposure.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_mode.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\action_mode.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photoeditor_effects_gallery.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\photoeditor_effects_gallery.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appwidget_main.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\appwidget_main.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_widget_type.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\choose_widget_type.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_picker.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\layout\\dialog_picker.xml"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\ic_vidcontrol_reload.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-sw600dp\\ic_vidcontrol_reload.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\photoeditor_scale_seekbar_light.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-sw600dp\\photoeditor_scale_seekbar_light.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\photoeditor_scale_seekbar_generic.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-sw600dp\\photoeditor_scale_seekbar_generic.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\ic_vidcontrol_pause.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-sw600dp\\ic_vidcontrol_pause.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\scrubber_knob.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-sw600dp\\scrubber_knob.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\bg_vidcontrol.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-sw600dp\\bg_vidcontrol.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\ic_vidcontrol_play.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-sw600dp\\ic_vidcontrol_play.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\photoeditor_scale_seekbar_shadow.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-sw600dp\\photoeditor_scale_seekbar_shadow.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\photoeditor_scale_seekbar_color.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-sw600dp\\photoeditor_scale_seekbar_color.png"
+    }
+]

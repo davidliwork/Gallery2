@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="picker_is_dialog">true</bool>
+    <dimen name="album_slot_gap">1dp</dimen>
+    <dimen name="albumset_slot_gap">1dp</dimen>
+    <dimen name="appwidget_height">240dp</dimen>
+    <dimen name="appwidget_width">240dp</dimen>
+    <dimen name="stack_photo_height">165dp</dimen>
+    <dimen name="stack_photo_width">220dp</dimen>
+    <integer name="album_rows_land">3</integer>
+    <integer name="album_rows_port">5</integer>
+    <integer name="albumset_rows_land">3</integer>
+    <integer name="albumset_rows_port">5</integer>
+    <style name="DialogPickerTheme" parent="android:Theme.Holo.Dialog">
+    </style>
+    <style name="Theme.Gallery" parent="android:Theme.Holo">
+        <item name="android:displayOptions"/>
+        <item name="android:actionBarStyle">@style/Holo.ActionBar</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="android:colorBackground">@null</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+</resources>

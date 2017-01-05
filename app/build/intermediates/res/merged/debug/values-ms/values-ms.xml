@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="make_albums_available_offline">
+    <item msgid="2171596356101611086" quantity="one">"Menjadikan album tersedia di luar talian."</item>
+    <item msgid="4948604338155959389" quantity="other">"Menjadikan album tersedia di luar talian."</item>
+  </plurals>
+    <plurals name="number_of_albums_selected">
+    <item msgid="749292746814788132" quantity="zero">"%1$d dipilih"</item>
+    <item msgid="6184377003099987825" quantity="one">"%1$d dipilih"</item>
+    <item msgid="53105607141906130" quantity="other">"%1$d dipilih"</item>
+  </plurals>
+    <plurals name="number_of_groups_selected">
+    <item msgid="3466388370310869238" quantity="zero">"%1$d dipilih"</item>
+    <item msgid="5030162638216034260" quantity="one">"%1$d dipilih"</item>
+    <item msgid="3512041363942842738" quantity="other">"%1$d dipilih"</item>
+  </plurals>
+    <plurals name="number_of_items_selected">
+    <item msgid="2142579311530586258" quantity="zero">"%1$d dipilih"</item>
+    <item msgid="2478365152745637768" quantity="one">"%1$d dipilih"</item>
+    <item msgid="754722656147810487" quantity="other">"%1$d dipilih"</item>
+  </plurals>
+    <string msgid="3985447518557474672" name="Import">"Import"</string>
+    <string msgid="5619154886080878023" name="activity_not_found">"Tiada aplikasi tersedia untuk melengkapkan tindakan."</string>
+    <string msgid="4271217504968243974" name="add_account">"Tambah akaun"</string>
+    <string msgid="7320787705180057947" name="albums">"Album"</string>
+    <string msgid="5920657630303915195" name="aperture">"Bukaan"</string>
+    <string msgid="1928079047368929634" name="app_name">"Galeri"</string>
+    <string msgid="1228925628357366957" name="appwidget_empty_text">"Tiada foto."</string>
+    <string msgid="6410561146863700411" name="appwidget_title">"Galeri Foto"</string>
+    <string msgid="4296941368722892821" name="auto">"Auto"</string>
+    <string msgid="1663414996270538748" name="autofix">"Auto-baiki"</string>
+    <string msgid="4521059045896269095" name="caching_label">"Mengcache..."</string>
+    <string msgid="916021826223448591" name="camera_connected">"Kamera disambungkan."</string>
+    <string msgid="2100559901676329496" name="camera_disconnected">"Kamera diputuskan sambungan."</string>
+    <string msgid="797463183863414289" name="camera_setas_wallpaper">"Kertas dinding"</string>
+    <string msgid="3637516880917356226" name="cancel">"Batal"</string>
+    <string msgid="6407959065464291972" name="click_import">"Sentuh di sini untuk mengimport"</string>
+    <string msgid="5585646033158453043" name="close">"Tutup"</string>
+    <string msgid="7358770022173660511" name="confirm_delete">"Padam"</string>
+    <string msgid="7598378507763334041" name="crop">"Pangkas"</string>
+    <string msgid="3427470284074377001" name="crop_action">"Pangkas"</string>
+    <string msgid="521114301871349328" name="crop_label">"Pangkas gambar"</string>
+    <string msgid="3400773981839556" name="crop_not_saved">"Imej yang dipangkas tidak disimpan."</string>
+    <string msgid="152200178986698300" name="crop_save_text">"OK"</string>
+    <string msgid="1062612625032731770" name="crop_saved">"Imej yang dipangkas disimpan ke Muat Turun."</string>
+    <string msgid="8794037869706891710" name="crop_tooltip">"Seret penanda untuk memangkas foto"</string>
+    <string msgid="4173724489001742342" name="crossprocess">"Proses silang"</string>
+    <string msgid="2839695998251824487" name="delete">"Padam"</string>
+    <string msgid="3016729318096557520" name="description">"Perihalan"</string>
+    <string msgid="5758897506061723684" name="deselect_all">"Nyahpilih semua"</string>
+    <string msgid="8415120088556445230" name="details">"Butiran"</string>
+    <string msgid="3215779248094151255" name="details_hms">"%1$d:%2$02d:%3$02d"</string>
+    <string msgid="940634969189855292" name="details_ms">"%1$02d:%2$02d"</string>
+    <string msgid="2611396603977441273" name="details_title">"%1$d dari %2$d item:"</string>
+    <string msgid="50396326708699797" name="documentary">"Dokumentari"</string>
+    <string msgid="217672440064436595" name="done">"Selesai"</string>
+    <string msgid="1686409894518940990" name="doodle">"Coretan"</string>
+    <string msgid="2902117272374362915" name="doodle_tooltip">"Lukis pada foto untuk mencoret"</string>
+    <string msgid="8145893940788467106" name="duotone">"Dua tona"</string>
+    <string msgid="8160058911218541616" name="duration">"Tempoh"</string>
+    <string msgid="1502273844748580847" name="edit">"Edit"</string>
+    <string msgid="3777746536831799890" name="edited_photo_bucket_name">"Diedit"</string>
+    <string msgid="4542880442593595494" name="empty_album">"O imej/video yang tersedia."</string>
+    <string msgid="3990163680281058826" name="exposure_time">"Masa dedahan"</string>
+    <string msgid="6205748523156172637" name="facelift">"Muka Berseri-seri"</string>
+    <string msgid="4412831806626044111" name="facetan">"Muka Sawo Matang"</string>
+    <string msgid="8394392853646664505" name="fail_to_load">"Tidak dapat memuatkan"</string>
+    <string msgid="8486169301588318915" name="file_size">"Saiz fail"</string>
+    <string msgid="2644989991700022526" name="filllight">"Cahaya Pemenuh"</string>
+    <string msgid="6037488646928998921" name="fisheye">"Mata ikan"</string>
+    <string msgid="2816779031261147723" name="flash">"Flash"</string>
+    <string msgid="1445443413822680010" name="flash_off">"Tiada denyar"</string>
+    <string msgid="7891556231891837284" name="flash_on">"Denyar dilepas"</string>
+    <string msgid="2357692401826287480" name="flip">"Balikkan"</string>
+    <string msgid="2700943256714731737" name="flip_tooltip">"Seret foto untuk menterbalikkannya"</string>
+    <string msgid="1291383769749877010" name="focal_length">"Jarak Fokus"</string>
+    <string msgid="8766337315709161215" name="free_space_format">"<ns1:g id="BYTES">%s</ns1:g> percuma"</string>
+    <string msgid="259405922673466798" name="gadget_title">"Bingkai gambar"</string>
+    <string msgid="7487585304579789098" name="grain">"Ira Filem"</string>
+    <string msgid="7641563843060945228" name="grayscale">"H &amp; P"</string>
+    <string msgid="4308299657902209357" name="group_by">"Kumpulkan mengikut"</string>
+    <string msgid="1532818636053818958" name="group_by_album">"Mengikut album"</string>
+    <string msgid="1566351636227274906" name="group_by_faces">"Mengikut orang"</string>
+    <string msgid="316641628989023253" name="group_by_location">"Mengikut lokasi"</string>
+    <string msgid="153766174950394155" name="group_by_size">"Mengikut saiz"</string>
+    <string msgid="3568731317210676160" name="group_by_tags">"Mengikut teg"</string>
+    <string msgid="9046168567717963573" name="group_by_time">"Mengikut masa"</string>
+    <string msgid="3648885449443787772" name="height">"Tinggi"</string>
+    <string msgid="3902653944386623972" name="highlight">"Serlahan"</string>
+    <string msgid="3875040287486199999" name="import_complete">"Import selesai"</string>
+    <string msgid="8497942380703298808" name="import_fail">"Import tidak berjaya"</string>
+    <string msgid="5028296664327335940" name="iso">"ISO"</string>
+    <string msgid="7038208555304563571" name="loading">"Memuatkan..."</string>
+    <string msgid="928195413034552034" name="loading_account">"Memuatkan akaun…"</string>
+    <string msgid="5990741970574295950" name="loading_failure">"Foto tidak boleh dimuatkan"</string>
+    <string msgid="1200894415793838191" name="loading_image">"Memuatkan imej..."</string>
+    <string msgid="4013492720121891585" name="loading_video">"Memuatkan video..."</string>
+    <string msgid="3432705876921618314" name="location">"Lokasi"</string>
+    <string msgid="6649297994083130305" name="locations">"Lokasi"</string>
+    <string msgid="1270032154357186736" name="lomoish">"Lomo"</string>
+    <string msgid="5157950985488297112" name="make_available_offline">"Jadikan tersedia luar talian"</string>
+    <string msgid="7921835498034236197" name="maker">"Pembuat"</string>
+    <string msgid="6608905477477607865" name="manual">"Manual"</string>
+    <string msgid="8024168704337990470" name="mimetype">"Jenis MIME"</string>
+    <string msgid="8240207064064337366" name="model">"Model"</string>
+    <string msgid="3526526872644898229" name="movie_view_label">"Pemain video"</string>
+    <string msgid="2554690102655855657" name="multiface_crop_help">"Sentuh muka untuk bermula."</string>
+    <string msgid="1985508917342811252" name="negative">"Negatif"</string>
+    <string msgid="5595408018304861875" name="no">"Tidak"</string>
+    <string msgid="4111744447491690896" name="no_albums_alert">"Tiada album tersedia."</string>
+    <string msgid="7164037617297293668" name="no_connectivity">"Beberapa lokasi tidak dapat dikenal pasti kerana masalah rangkaian."</string>
+    <string msgid="4043624857489331676" name="no_location">"Tiada lokasi"</string>
+    <string msgid="5315144556325243400" name="no_such_item">"Tidak dapat mencari item."</string>
+    <string msgid="284723185546429750" name="no_thumbnail">"Tiada lakaran kenit"</string>
+    <string msgid="4958327983165245513" name="orientation">"Orientasi"</string>
+    <string msgid="4725740395885105824" name="path">"Laluan"</string>
+    <string msgid="4114003823747292747" name="people">"Orang"</string>
+    <string msgid="3494363661299484657" name="photo_saved">"Foto disimpan ke album <ns1:g id="ALBUM_NAME">%s</ns1:g>"</string>
+    <string msgid="4738587346771969697" name="photoeditor_name">"Studio Foto"</string>
+    <string msgid="1497721615718760613" name="picasa_posts">"Siaran"</string>
+    <string msgid="4139212359561383385" name="posterize">"Pemposteran"</string>
+    <string msgid="8722939570307386071" name="process_caching_requests">"Memproses permintaan cache"</string>
+    <string msgid="4958448806369928239" name="redeye">"Mata Merah"</string>
+    <string msgid="9112774042113471358" name="redeye_tooltip">"Ketik untuk mengalih keluar mata merah"</string>
+    <string msgid="5184414518126703481" name="resume_playing_message">"Sambung semula proses main dari %s ?"</string>
+    <string msgid="5471008499835769292" name="resume_playing_restart">"Mainkan semula dari mula"</string>
+    <string msgid="3847915469173852416" name="resume_playing_resume">"Sambung semula proses main"</string>
+    <string msgid="8996677350649355013" name="resume_playing_title">"Sambung semula video"</string>
+    <string msgid="6607597269792373083" name="rotate">"Putar"</string>
+    <string msgid="5888273317282539839" name="rotate_left">"Putar ke kiri"</string>
+    <string msgid="6776325835923384839" name="rotate_right">"Putar ke kanan"</string>
+    <string msgid="7008602969130734229" name="rotate_tooltip">"Seret foto untuk memutarnya"</string>
+    <string msgid="8621322012271169931" name="saturation">"Ketepuan"</string>
+    <string msgid="5516670392524294967" name="save">"SIMPAN"</string>
+    <string msgid="6857408774183654970" name="save_error">"Tidak dapat menyimpan imej yang dipangkas."</string>
+    <string msgid="3125109368779997862" name="save_photo">"Simpan foto yang diedit?"</string>
+    <string msgid="8596600582621364077" name="saving_failure">"Foto tidak boleh disimpan"</string>
+    <string msgid="7270334453636349407" name="saving_image">"Menyimpan gambar..."</string>
+    <string msgid="4632641262236697235" name="select_album">"Pilih album"</string>
+    <string msgid="3403283025220282175" name="select_all">"Pilih semua"</string>
+    <string msgid="9090385962030340391" name="select_group">"Pilih kumpulan"</string>
+    <string msgid="7841406150484742140" name="select_image">"Pilih foto"</string>
+    <string msgid="2257529413100472599" name="select_item">"Pilih item"</string>
+    <string msgid="4859510992798615076" name="select_video">"Pilih video"</string>
+    <string msgid="7978093531824705601" name="sepia">"Sepia"</string>
+    <string msgid="7235465319919457488" name="sequence_in_set">"%1$d dari %2$d item:"</string>
+    <string msgid="3636764710790507868" name="set_as">"Tetapkan sebagai"</string>
+    <string msgid="2331476809308010401" name="set_image">"Tetapkan gambar sebagai"</string>
+    <string msgid="4581863582996336783" name="set_label_all_albums">"Semua album"</string>
+    <string msgid="6698133661656266702" name="set_label_local_albums">"Album setempat"</string>
+    <string msgid="1283513183744896368" name="set_label_mtp_devices">"Peranti MTP"</string>
+    <string msgid="5356258354953935895" name="set_label_picasa_albums">"Album Picasa"</string>
+    <string msgid="1534847740615665736" name="settings">"Tetapan"</string>
+    <string msgid="8235188588101973090" name="shadow">"Bayang-bayang"</string>
+    <string msgid="3619042788254195341" name="share">"Kongsi"</string>
+    <string msgid="8449662378104403230" name="sharpen">"Tajamkan"</string>
+    <string msgid="4780647751652596980" name="show_all">"Imej dan video"</string>
+    <string msgid="7263218480867672653" name="show_images_only">"Imej sahaja"</string>
+    <string msgid="6157544221201750980" name="show_on_map">"Tunjukkan pada peta"</string>
+    <string msgid="3850394623678871697" name="show_videos_only">"Video sahaja"</string>
+    <string msgid="5324398253474104087" name="size_above">"<ns1:g id="SIZE">%1$s</ns1:g> atau kurang"</string>
+    <string msgid="2074956730721942260" name="size_below">"<ns1:g id="SIZE">%1$s</ns1:g> atau kurang"</string>
+    <string msgid="8779660840898917208" name="size_between">"<ns1:g id="MIN_SIZE">%1$s</ns1:g> hingga <ns1:g id="MAX_SIZE">%2$s</ns1:g>"</string>
+    <string msgid="4355906903247112975" name="slideshow">"Tayangan slaid"</string>
+    <string msgid="6915963319933437083" name="slideshow_dream_name">"Tayangan slaid"</string>
+    <string msgid="5217801513491493491" name="straighten">"Luruskan"</string>
+    <string msgid="4846317027139212339" name="straighten_tooltip">"Seret foto untuk meluruskannya"</string>
+    <string msgid="7280111806675169992" name="switch_to_camera">"Bertukar kepada kamera"</string>
+    <string msgid="2218733298953719785" name="sync_album_error">"Gagal untuk memuat turun foto dalam album ini. Sila cuba lagi nanti."</string>
+    <string msgid="9016732535181154028" name="sync_album_set_error">"Gagal untuk memuat turun senarai album. Sila cuba lagi nanti."</string>
+    <string msgid="8522572542111169872" name="sync_picasa_albums">"Segar semula"</string>
+    <string msgid="5539648765482935955" name="tags">"Tanda nama"</string>
+    <string msgid="1607987938521534517" name="temperature">"Cerah"</string>
+    <string msgid="1367953006052876956" name="time">"Masa"</string>
+    <string msgid="2023033894889499219" name="times">"Masa"</string>
+    <string msgid="154435943863418434" name="tint">"Seri warna"</string>
+    <string msgid="7622928349908052569" name="title">"Tajuk"</string>
+    <string msgid="2184754031896160755" name="try_to_set_local_album_available_offline">"Item ini disimpan pada peranti dan tersedia di luar talian."</string>
+    <string msgid="1125768433254329136" name="unit_mm">"mm"</string>
+    <string msgid="7281481064509590402" name="untagged">"Tidak ditanda namakan"</string>
+    <string msgid="7003051631792271009" name="video_err">"Tidak boleh memainkan video."</string>
+    <string msgid="7648125924662648282" name="vignette">"Vignet"</string>
+    <string msgid="140165383777262070" name="wallpaper">"Menetapkan kertas dinding…"</string>
+    <string msgid="1582509289994216078" name="white_balance">"Imbangan putih"</string>
+    <string msgid="2161028964992385809" name="widget_type">"Jenis widget"</string>
+    <string msgid="3245149644830731121" name="widget_type_album">"Imej dari album"</string>
+    <string msgid="6267065337367795355" name="widget_type_photo">"Pilih imej"</string>
+    <string msgid="8594622705019763768" name="widget_type_shuffle">"Rombak semua imej"</string>
+    <string msgid="9215847239714321097" name="width">"Lebar"</string>
+    <string msgid="5402582493291792293" name="yes">"Ya"</string>
+</resources>

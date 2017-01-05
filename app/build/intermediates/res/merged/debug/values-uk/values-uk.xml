@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="make_albums_available_offline">
+    <item msgid="2171596356101611086" quantity="one">"Надання доступу до альбому в режимі офлайн."</item>
+    <item msgid="4948604338155959389" quantity="other">"Надання доступу до альбомів у режимі офлайн."</item>
+  </plurals>
+    <plurals name="number_of_albums_selected">
+    <item msgid="749292746814788132" quantity="zero">"Вибрано %1$d"</item>
+    <item msgid="6184377003099987825" quantity="one">"Вибрано %1$d"</item>
+    <item msgid="53105607141906130" quantity="other">"Вибрано %1$d"</item>
+  </plurals>
+    <plurals name="number_of_groups_selected">
+    <item msgid="3466388370310869238" quantity="zero">"Вибрано %1$d"</item>
+    <item msgid="5030162638216034260" quantity="one">"Вибрано %1$d"</item>
+    <item msgid="3512041363942842738" quantity="other">"Вибрано %1$d"</item>
+  </plurals>
+    <plurals name="number_of_items_selected">
+    <item msgid="2142579311530586258" quantity="zero">"Вибрано %1$d"</item>
+    <item msgid="2478365152745637768" quantity="one">"Вибрано %1$d"</item>
+    <item msgid="754722656147810487" quantity="other">"Вибрано %1$d"</item>
+  </plurals>
+    <string msgid="3985447518557474672" name="Import">"Імпортувати"</string>
+    <string msgid="5619154886080878023" name="activity_not_found">"Немає доступної програми, щоб виконати цю дію."</string>
+    <string msgid="4271217504968243974" name="add_account">"Додати обліковий запис"</string>
+    <string msgid="7320787705180057947" name="albums">"Альбоми"</string>
+    <string msgid="5920657630303915195" name="aperture">"Апертура"</string>
+    <string msgid="1928079047368929634" name="app_name">"Галерея"</string>
+    <string msgid="1228925628357366957" name="appwidget_empty_text">"Фотографій немає."</string>
+    <string msgid="6410561146863700411" name="appwidget_title">"Фотогалерея"</string>
+    <string msgid="4296941368722892821" name="auto">"Автомат."</string>
+    <string msgid="1663414996270538748" name="autofix">"Автовиправлення"</string>
+    <string msgid="4521059045896269095" name="caching_label">"Кешування..."</string>
+    <string msgid="916021826223448591" name="camera_connected">"Камеру підключено."</string>
+    <string msgid="2100559901676329496" name="camera_disconnected">"Камеру відключено."</string>
+    <string msgid="797463183863414289" name="camera_setas_wallpaper">"Фоновий мал."</string>
+    <string msgid="3637516880917356226" name="cancel">"Скасувати"</string>
+    <string msgid="6407959065464291972" name="click_import">"Торкніться тут, щоб імпортувати"</string>
+    <string msgid="5585646033158453043" name="close">"Закрити"</string>
+    <string msgid="7358770022173660511" name="confirm_delete">"Видалити"</string>
+    <string msgid="7598378507763334041" name="crop">"Обрізка"</string>
+    <string msgid="3427470284074377001" name="crop_action">"Обрізати"</string>
+    <string msgid="521114301871349328" name="crop_label">"Обрізати фото"</string>
+    <string msgid="3400773981839556" name="crop_not_saved">"Обрізане зображення не збережено."</string>
+    <string msgid="152200178986698300" name="crop_save_text">"OK"</string>
+    <string msgid="1062612625032731770" name="crop_saved">"Обрізане зображення збережено в папці завантажень."</string>
+    <string msgid="8794037869706891710" name="crop_tooltip">"Перетягніть маркери, щоб обрізати фото"</string>
+    <string msgid="4173724489001742342" name="crossprocess">"Крос-процес"</string>
+    <string msgid="2839695998251824487" name="delete">"Видалити"</string>
+    <string msgid="3016729318096557520" name="description">"Опис"</string>
+    <string msgid="5758897506061723684" name="deselect_all">"Відмінити всі"</string>
+    <string msgid="8415120088556445230" name="details">"Деталі"</string>
+    <string msgid="3215779248094151255" name="details_hms">"%1$d:%2$02d:%3$02d"</string>
+    <string msgid="940634969189855292" name="details_ms">"%1$02d:%2$02d"</string>
+    <string msgid="2611396603977441273" name="details_title">"Елементи: %1$d з %2$d"</string>
+    <string msgid="50396326708699797" name="documentary">"Чорно-білі тони"</string>
+    <string msgid="217672440064436595" name="done">"Готово"</string>
+    <string msgid="1686409894518940990" name="doodle">"Doodle"</string>
+    <string msgid="2902117272374362915" name="doodle_tooltip">"Малюйте на фото, щоб створити doodle"</string>
+    <string msgid="8145893940788467106" name="duotone">"Два тони"</string>
+    <string msgid="8160058911218541616" name="duration">"Тривалість"</string>
+    <string msgid="1502273844748580847" name="edit">"Редагувати"</string>
+    <string msgid="3777746536831799890" name="edited_photo_bucket_name">"Редаговано"</string>
+    <string msgid="4542880442593595494" name="empty_album">"Немає доступних зображень або відео."</string>
+    <string msgid="3990163680281058826" name="exposure_time">"Час експозиції"</string>
+    <string msgid="6205748523156172637" name="facelift">"Світло на обличчі"</string>
+    <string msgid="4412831806626044111" name="facetan">"Засмага обличчя"</string>
+    <string msgid="8394392853646664505" name="fail_to_load">"Не вдалося завантажити"</string>
+    <string msgid="8486169301588318915" name="file_size">"Розмір файлу"</string>
+    <string msgid="2644989991700022526" name="filllight">"Освітлення"</string>
+    <string msgid="6037488646928998921" name="fisheye">"\"Риб’яче око\""</string>
+    <string msgid="2816779031261147723" name="flash">"Flash"</string>
+    <string msgid="1445443413822680010" name="flash_off">"Без спалаху"</string>
+    <string msgid="7891556231891837284" name="flash_on">"Викор. спалах"</string>
+    <string msgid="2357692401826287480" name="flip">"Перевернути"</string>
+    <string msgid="2700943256714731737" name="flip_tooltip">"Потягніть за фото, щоб перевернути його"</string>
+    <string msgid="1291383769749877010" name="focal_length">"Фокусна відст."</string>
+    <string msgid="8766337315709161215" name="free_space_format">"Вільно <ns1:g id="BYTES">%s</ns1:g>"</string>
+    <string msgid="259405922673466798" name="gadget_title">"Фото-рамка"</string>
+    <string msgid="7487585304579789098" name="grain">"Зернистість плівки"</string>
+    <string msgid="7641563843060945228" name="grayscale">"Чорно-білий"</string>
+    <string msgid="4308299657902209357" name="group_by">"Групувати за"</string>
+    <string msgid="1532818636053818958" name="group_by_album">"За альбомами"</string>
+    <string msgid="1566351636227274906" name="group_by_faces">"За обличчями"</string>
+    <string msgid="316641628989023253" name="group_by_location">"За місцезнаходженням"</string>
+    <string msgid="153766174950394155" name="group_by_size">"За розміром"</string>
+    <string msgid="3568731317210676160" name="group_by_tags">"За тегами"</string>
+    <string msgid="9046168567717963573" name="group_by_time">"За часом"</string>
+    <string msgid="3648885449443787772" name="height">"Висота"</string>
+    <string msgid="3902653944386623972" name="highlight">"Світлові ефекти"</string>
+    <string msgid="3875040287486199999" name="import_complete">"Імпорт завершено"</string>
+    <string msgid="8497942380703298808" name="import_fail">"Помилка імпорту"</string>
+    <string msgid="5028296664327335940" name="iso">"ISO"</string>
+    <string msgid="7038208555304563571" name="loading">"Завантаж…"</string>
+    <string msgid="928195413034552034" name="loading_account">"Завантаження облік. запису..."</string>
+    <string msgid="5990741970574295950" name="loading_failure">"Фото неможливо завантажити"</string>
+    <string msgid="1200894415793838191" name="loading_image">"Завантаж. зображ…"</string>
+    <string msgid="4013492720121891585" name="loading_video">"Завантаж. відео…"</string>
+    <string msgid="3432705876921618314" name="location">"Місце"</string>
+    <string msgid="6649297994083130305" name="locations">"Місцезнах."</string>
+    <string msgid="1270032154357186736" name="lomoish">"Ломо"</string>
+    <string msgid="5157950985488297112" name="make_available_offline">"Завантажити для доступу офлайн"</string>
+    <string msgid="7921835498034236197" name="maker">"Автор"</string>
+    <string msgid="6608905477477607865" name="manual">"Вручну"</string>
+    <string msgid="8024168704337990470" name="mimetype">"Тип MIME"</string>
+    <string msgid="8240207064064337366" name="model">"Модель"</string>
+    <string msgid="3526526872644898229" name="movie_view_label">"Відеопрогравач"</string>
+    <string msgid="2554690102655855657" name="multiface_crop_help">"Торкніться обличчя, щоб почати."</string>
+    <string msgid="1985508917342811252" name="negative">"Негатив"</string>
+    <string msgid="5595408018304861875" name="no">"Ні"</string>
+    <string msgid="4111744447491690896" name="no_albums_alert">"Немає доступних альбомів."</string>
+    <string msgid="7164037617297293668" name="no_connectivity">"Не вдалося визначити деякі місцезнаходження через проблеми з мережею."</string>
+    <string msgid="4043624857489331676" name="no_location">"Без місцезнаходження"</string>
+    <string msgid="5315144556325243400" name="no_such_item">"Не вдалося знайти елемент."</string>
+    <string msgid="284723185546429750" name="no_thumbnail">"Немає ескізу"</string>
+    <string msgid="4958327983165245513" name="orientation">"Орієнтація"</string>
+    <string msgid="4725740395885105824" name="path">"Шлях"</string>
+    <string msgid="4114003823747292747" name="people">"Люди"</string>
+    <string msgid="3494363661299484657" name="photo_saved">"Фото збережено в альбом \"<ns1:g id="ALBUM_NAME">%s</ns1:g>\""</string>
+    <string msgid="4738587346771969697" name="photoeditor_name">"Photo Studio"</string>
+    <string msgid="1497721615718760613" name="picasa_posts">"Публікації"</string>
+    <string msgid="4139212359561383385" name="posterize">"Ефект плаката"</string>
+    <string msgid="8722939570307386071" name="process_caching_requests">"Виконується обробка запитів кешування"</string>
+    <string msgid="4958448806369928239" name="redeye">"Червоні очі"</string>
+    <string msgid="9112774042113471358" name="redeye_tooltip">"Натисніть, щоб усунути ефект червоних очей"</string>
+    <string msgid="5184414518126703481" name="resume_playing_message">"Продовж. відтворення з %s ?"</string>
+    <string msgid="5471008499835769292" name="resume_playing_restart">"Почати знову"</string>
+    <string msgid="3847915469173852416" name="resume_playing_resume">"Віднов. відтвор."</string>
+    <string msgid="8996677350649355013" name="resume_playing_title">"Відновити відео"</string>
+    <string msgid="6607597269792373083" name="rotate">"Обертання"</string>
+    <string msgid="5888273317282539839" name="rotate_left">"Поверн. вліво"</string>
+    <string msgid="6776325835923384839" name="rotate_right">"Поверн. вправо"</string>
+    <string msgid="7008602969130734229" name="rotate_tooltip">"Потягніть за фото, щоб обертати його"</string>
+    <string msgid="8621322012271169931" name="saturation">"Насиченість"</string>
+    <string msgid="5516670392524294967" name="save">"ЗБЕРЕГТИ"</string>
+    <string msgid="6857408774183654970" name="save_error">"Не вдалося зберегти обрізане зображення."</string>
+    <string msgid="3125109368779997862" name="save_photo">"Зберегти відредаговану фотографію?"</string>
+    <string msgid="8596600582621364077" name="saving_failure">"Фото неможливо зберегти"</string>
+    <string msgid="7270334453636349407" name="saving_image">"Зберіг-ня фото…"</string>
+    <string msgid="4632641262236697235" name="select_album">"Виберіть альбом(-и)"</string>
+    <string msgid="3403283025220282175" name="select_all">"Вибрати всі"</string>
+    <string msgid="9090385962030340391" name="select_group">"Виберіть групу(-и)"</string>
+    <string msgid="7841406150484742140" name="select_image">"Виберіть фото"</string>
+    <string msgid="2257529413100472599" name="select_item">"Виберіть елемент(-и)"</string>
+    <string msgid="4859510992798615076" name="select_video">"Виберіть відео"</string>
+    <string msgid="7978093531824705601" name="sepia">"Сепія"</string>
+    <string msgid="7235465319919457488" name="sequence_in_set">"%1$d з %2$d елем.:"</string>
+    <string msgid="3636764710790507868" name="set_as">"Устан. як"</string>
+    <string msgid="2331476809308010401" name="set_image">"Устан. фото як"</string>
+    <string msgid="4581863582996336783" name="set_label_all_albums">"Усі альбоми"</string>
+    <string msgid="6698133661656266702" name="set_label_local_albums">"Локальні альбоми"</string>
+    <string msgid="1283513183744896368" name="set_label_mtp_devices">"Пристрої MTP"</string>
+    <string msgid="5356258354953935895" name="set_label_picasa_albums">"Альбоми Picasa"</string>
+    <string msgid="1534847740615665736" name="settings">"Налаштування"</string>
+    <string msgid="8235188588101973090" name="shadow">"Тіні"</string>
+    <string msgid="3619042788254195341" name="share">"Надісл."</string>
+    <string msgid="8449662378104403230" name="sharpen">"Різкість"</string>
+    <string msgid="4780647751652596980" name="show_all">"Зображення та відео"</string>
+    <string msgid="7263218480867672653" name="show_images_only">"Лише зображення"</string>
+    <string msgid="6157544221201750980" name="show_on_map">"Показ. на карті"</string>
+    <string msgid="3850394623678871697" name="show_videos_only">"Лише відео"</string>
+    <string msgid="5324398253474104087" name="size_above">"<ns1:g id="SIZE">%1$s</ns1:g> або більше"</string>
+    <string msgid="2074956730721942260" name="size_below">"<ns1:g id="SIZE">%1$s</ns1:g> або менше"</string>
+    <string msgid="8779660840898917208" name="size_between">"від <ns1:g id="MIN_SIZE">%1$s</ns1:g> до <ns1:g id="MAX_SIZE">%2$s</ns1:g>"</string>
+    <string msgid="4355906903247112975" name="slideshow">"Слайд-шоу"</string>
+    <string msgid="6915963319933437083" name="slideshow_dream_name">"Слайд-шоу"</string>
+    <string msgid="5217801513491493491" name="straighten">"Вирівняти"</string>
+    <string msgid="4846317027139212339" name="straighten_tooltip">"Перетягніть фото, щоб вирівняти його"</string>
+    <string msgid="7280111806675169992" name="switch_to_camera">"Перейти до програми Камера"</string>
+    <string msgid="2218733298953719785" name="sync_album_error">"Не вдалося завантажити фото цього альбому. Повторіть спробу пізніше."</string>
+    <string msgid="9016732535181154028" name="sync_album_set_error">"Не вдалося завантажити список альбомів. Повторіть спробу пізніше."</string>
+    <string msgid="8522572542111169872" name="sync_picasa_albums">"Оновити"</string>
+    <string msgid="5539648765482935955" name="tags">"Теги"</string>
+    <string msgid="1607987938521534517" name="temperature">"Тепло"</string>
+    <string msgid="1367953006052876956" name="time">"Час"</string>
+    <string msgid="2023033894889499219" name="times">"Час"</string>
+    <string msgid="154435943863418434" name="tint">"Відтінок"</string>
+    <string msgid="7622928349908052569" name="title">"Назва"</string>
+    <string msgid="2184754031896160755" name="try_to_set_local_album_available_offline">"Цей елемент зберігається локально та доступний у режимі офлайн."</string>
+    <string msgid="1125768433254329136" name="unit_mm">"мм"</string>
+    <string msgid="7281481064509590402" name="untagged">"Без тегів"</string>
+    <string msgid="7003051631792271009" name="video_err">"Неможливо відтворити відео."</string>
+    <string msgid="7648125924662648282" name="vignette">"Віньєтка"</string>
+    <string msgid="140165383777262070" name="wallpaper">"Встановлення фонового малюнка..."</string>
+    <string msgid="1582509289994216078" name="white_balance">"Баланс білого"</string>
+    <string msgid="2161028964992385809" name="widget_type">"Тип віджета"</string>
+    <string msgid="3245149644830731121" name="widget_type_album">"Зображення з альбому"</string>
+    <string msgid="6267065337367795355" name="widget_type_photo">"Вибрати зображення"</string>
+    <string msgid="8594622705019763768" name="widget_type_shuffle">"Перемішати всі зображення"</string>
+    <string msgid="9215847239714321097" name="width">"Ширина"</string>
+    <string msgid="5402582493291792293" name="yes">"Так"</string>
+</resources>

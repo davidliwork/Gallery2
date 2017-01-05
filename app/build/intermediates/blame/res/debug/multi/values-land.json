@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\values-land\\dimensions.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 720,
+                        "endColumn": 57,
+                        "endOffset": 773
+                    }
+                }
+            }
+        ]
+    }
+]

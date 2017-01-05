@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <array name="color_picker_colors">
+        <item>@color/color_picker_preset_color1</item>
+        <item>@color/color_picker_preset_color2</item>
+        <item>@color/color_picker_preset_color3</item>
+        <item>@color/color_picker_preset_color4</item>
+        <item>@color/color_picker_preset_color5</item>
+        <item>@color/color_picker_preset_color6</item>
+        <item>@color/color_picker_preset_color7</item>
+        <item>@color/color_picker_preset_color8</item>
+        <item>@color/color_picker_preset_color9</item>
+        <item>@color/color_picker_preset_color10</item>
+        <item>@color/color_picker_preset_color11</item>
+        <item>@color/color_picker_preset_color12</item>
+        <item>@color/color_picker_preset_color13</item>
+        <item>@color/color_picker_preset_color14</item>
+        <item>@color/color_picker_preset_color15</item>
+        <item>@color/color_picker_preset_color16</item>
+        <item>@color/color_picker_preset_color17</item>
+        <item>@color/color_picker_preset_color18</item>
+        <item>@color/color_picker_preset_color19</item>
+        <item>@color/color_picker_preset_color20</item>
+        <item>@color/color_picker_preset_color21</item>
+        <item>@color/color_picker_preset_color22</item>
+        <item>@color/color_picker_preset_color23</item>
+        <item>@color/color_picker_preset_color24</item>
+    </array>
+    <bool name="picker_is_dialog">false</bool>
+    <bool name="show_action_bar_title">false</bool>
+    <color name="color_picker_preset_color1">#ddff1e00</color>
+    <color name="color_picker_preset_color10">#dd00ff47</color>
+    <color name="color_picker_preset_color11">#dd00ff84</color>
+    <color name="color_picker_preset_color12">#dd00ffc1</color>
+    <color name="color_picker_preset_color13">#dd00ffff</color>
+    <color name="color_picker_preset_color14">#dd00c1ff</color>
+    <color name="color_picker_preset_color15">#dd0084ff</color>
+    <color name="color_picker_preset_color16">#dd0047ff</color>
+    <color name="color_picker_preset_color17">#dd000aff</color>
+    <color name="color_picker_preset_color18">#dd3300ff</color>
+    <color name="color_picker_preset_color19">#dd7000ff</color>
+    <color name="color_picker_preset_color2">#ddff5b00</color>
+    <color name="color_picker_preset_color20">#ddad00ff</color>
+    <color name="color_picker_preset_color21">#ddea00ff</color>
+    <color name="color_picker_preset_color22">#ddff00d6</color>
+    <color name="color_picker_preset_color23">#ddff0098</color>
+    <color name="color_picker_preset_color24">#ddff005b</color>
+    <color name="color_picker_preset_color3">#ddff9900</color>
+    <color name="color_picker_preset_color4">#ddffd600</color>
+    <color name="color_picker_preset_color5">#ddeaff00</color>
+    <color name="color_picker_preset_color6">#ddadff00</color>
+    <color name="color_picker_preset_color7">#dd70ff00</color>
+    <color name="color_picker_preset_color8">#dd32ff00</color>
+    <color name="color_picker_preset_color9">#dd00ff0a</color>
+    <color name="darker_transparent">#C1000000</color>
+    <color name="opaque_cyan">#FF008AFF</color>
+    <color name="translucent_black">#67000000</color>
+    <color name="translucent_cyan">#99008AFF</color>
+    <color name="translucent_white">#99CCCCCC</color>
+    <dimen name="album_slot_gap">1dp</dimen>
+    <dimen name="albumset_count_font_size">12sp</dimen>
+    <dimen name="albumset_count_offset">4dp</dimen>
+    <dimen name="albumset_icon_size">26dp</dimen>
+    <dimen name="albumset_label_background_height">40dp</dimen>
+    <dimen name="albumset_left_margin">6dp</dimen>
+    <dimen name="albumset_slot_gap">1dp</dimen>
+    <dimen name="albumset_title_font_size">14sp</dimen>
+    <dimen name="albumset_title_offset">3dp</dimen>
+    <dimen name="appwidget_height">180dp</dimen>
+    <dimen name="appwidget_width">180dp</dimen>
+    <dimen name="cache_pin_margin">8dp</dimen>
+    <dimen name="cache_pin_size">24dp</dimen>
+    <dimen name="filmstrip_bar_size">10dp</dimen>
+    <dimen name="filmstrip_bottom_margin">2dp</dimen>
+    <dimen name="filmstrip_content_size">56dp</dimen>
+    <dimen name="filmstrip_grip_size">10dp</dimen>
+    <dimen name="filmstrip_grip_width">96dp</dimen>
+    <dimen name="filmstrip_mid_margin">0dp</dimen>
+    <dimen name="filmstrip_thumb_size">48dp</dimen>
+    <dimen name="filmstrip_top_margin">12dp</dimen>
+    <dimen name="manage_cache_bottom_height">48dp</dimen>
+    <dimen name="stack_photo_height">120dp</dimen>
+    <dimen name="stack_photo_width">160dp</dimen>
+    <item name="action_toggle_full_caching" type="id"/>
+    <integer name="album_rows_land">2</integer>
+    <integer name="album_rows_port">4</integer>
+    <integer name="albumset_rows_land">2</integer>
+    <integer name="albumset_rows_port">4</integer>
+    <plurals name="make_albums_available_offline">
+        <item quantity="one">Making album available offline.</item>
+        <item quantity="other">Making albums available offline.</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="zero">%1$d selected</item>
+        <item quantity="one">%1$d selected</item>
+        <item quantity="other">%1$d selected</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="zero">%1$d selected</item>
+        <item quantity="one">%1$d selected</item>
+        <item quantity="other">%1$d selected</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="zero">%1$d selected</item>
+        <item quantity="one">%1$d selected</item>
+        <item quantity="other">%1$d selected</item>
+    </plurals>
+    <string name="Import">Import</string>
+    <string name="activity_not_found">No app is available to complete the action.</string>
+    <string name="add_account">Add account</string>
+    <string name="albums">Albums</string>
+    <string name="aperture">Aperture</string>
+    <string name="app_name">Gallery</string>
+    <string name="appwidget_empty_text">No photos.</string>
+    <string name="appwidget_title">Photo Gallery</string>
+    <string name="auto">Auto</string>
+    <string name="autofix">Auto-fix</string>
+    <string name="caching_label">Caching\u2026</string>
+    <string name="camera_connected">Camera connected.</string>
+    <string name="camera_disconnected">Camera disconnected.</string>
+    <string name="camera_setas_wallpaper">Wallpaper</string>
+    <string name="cancel">Cancel</string>
+    <string name="click_import">Touch here to import</string>
+    <string name="close">Close</string>
+    <string name="confirm_delete">Delete</string>
+    <string name="crop">Crop</string>
+    <string name="crop_action">Crop</string>
+    <string name="crop_label">Crop picture</string>
+    <string name="crop_not_saved">Cropped image wasn\'t saved.</string>
+    <string name="crop_save_text">OK</string>
+    <string name="crop_saved">Cropped image saved to Downloads.</string>
+    <string name="crop_tooltip">Drag markers to crop photo</string>
+    <string name="crossprocess">Cross-process</string>
+    <string name="delete">Delete</string>
+    <string name="description">Description</string>
+    <string name="deselect_all">Deselect all</string>
+    <string name="details">Details</string>
+    <string name="details_hms">%1$d:%2$02d:%3$02d</string>
+    <string name="details_ms">%1$02d:%2$02d</string>
+    <string name="details_title">%1$d of %2$d items:</string>
+    <string name="documentary">Documentary</string>
+    <string name="done">Done</string>
+    <string name="doodle">Doodle</string>
+    <string name="doodle_tooltip">Draw on photo to doodle</string>
+    <string name="duotone">Duo-tone</string>
+    <string name="duration">Duration</string>
+    <string name="edit">Edit</string>
+    <string name="edited_photo_bucket_name">Edited</string>
+    <string name="empty_album">O images/videos available.</string>
+    <string name="exposure_time">Exposure time</string>
+    <string name="facelift">Face Glow</string>
+    <string name="facetan">Face Tan</string>
+    <string name="fail_to_load">Couldn\'t load</string>
+    <string name="file_size">File size</string>
+    <string name="filllight">Fill Light</string>
+    <string name="fisheye">Fisheye</string>
+    <string name="flash">Flash</string>
+    <string name="flash_off">No flash</string>
+    <string name="flash_on">Flash fired</string>
+    <string name="flip">Flip</string>
+    <string name="flip_tooltip">Drag photo to flip it</string>
+    <string name="focal_length">Focal Length</string>
+    <string name="free_space_format"><ns1:g id="bytes">%s</ns1:g> free</string>
+    <string name="gadget_title">Picture frame</string>
+    <string name="grain">Film Grain</string>
+    <string name="grayscale">B&amp;W</string>
+    <string name="group_by">Group by</string>
+    <string name="group_by_album">By album</string>
+    <string name="group_by_faces">By people</string>
+    <string name="group_by_location">By location</string>
+    <string name="group_by_size">By size</string>
+    <string name="group_by_tags">By tags</string>
+    <string name="group_by_time">By time</string>
+    <string name="height">Height</string>
+    <string name="highlight">Highlights</string>
+    <string name="import_complete">Import complete</string>
+    <string name="import_fail">Import unsuccessful</string>
+    <string name="iso">ISO</string>
+    <string name="loading">Loading\u2026</string>
+    <string name="loading_account">Loading account\u2026</string>
+    <string name="loading_failure">Photo cannot be loaded</string>
+    <string name="loading_image">Loading image\u2026</string>
+    <string name="loading_video">Loading video\u2026</string>
+    <string name="location">Location</string>
+    <string name="locations">Locations</string>
+    <string name="lomoish">Lomo</string>
+    <string name="make_available_offline">Make available offline</string>
+    <string name="maker">Maker</string>
+    <string name="manual">Manual</string>
+    <string name="mimetype">MIME type</string>
+    <string name="model">Model</string>
+    <string name="movie_view_label">Video player</string>
+    <string name="multiface_crop_help">Touch a face to begin.</string>
+    <string name="negative">Negative</string>
+    <string name="no">No</string>
+    <string name="no_albums_alert">No albums available.</string>
+    <string name="no_connectivity">Some locations couldn\'t be identified due to network problems.</string>
+    <string name="no_location">No location</string>
+    <string name="no_such_item">Couldn\'t find item.</string>
+    <string name="no_thumbnail">No thumbnail</string>
+    <string name="orientation">Orientation</string>
+    <string name="path">Path</string>
+    <string name="people">People</string>
+    <string name="photo_saved">Photo saved to <ns1:g id="album_name">%s</ns1:g> album</string>
+    <string name="photoeditor_name">Photo Studio</string>
+    <string name="picasa_posts">Posts</string>
+    <string name="posterize">Posterize</string>
+    <string name="process_caching_requests">Processing caching requests</string>
+    <string name="redeye">Red Eye</string>
+    <string name="redeye_tooltip">Tap to remove red eyes</string>
+    <string name="resume_playing_message">Resume playing from %s ?</string>
+    <string name="resume_playing_restart">Start over</string>
+    <string name="resume_playing_resume">Resume playing</string>
+    <string name="resume_playing_title">Resume video</string>
+    <string name="rotate">Rotate</string>
+    <string name="rotate_left">Rotate left</string>
+    <string name="rotate_right">Rotate right</string>
+    <string name="rotate_tooltip">Drag photo to rotate it</string>
+    <string name="saturation">Saturation</string>
+    <string name="save">SAVE</string>
+    <string name="save_error">Couldn\'t save cropped image.</string>
+    <string name="save_photo">Save edited photo?</string>
+    <string name="saving_failure">Photo cannot be saved</string>
+    <string name="saving_image">Saving picture\u2026</string>
+    <string name="select_album">Select album(s)</string>
+    <string name="select_all">Select all</string>
+    <string name="select_group">Select group(s)</string>
+    <string name="select_image">Select photo</string>
+    <string name="select_item">Select item(s)</string>
+    <string name="select_video">Select video</string>
+    <string name="sepia">Sepia</string>
+    <string name="sequence_in_set">%1$d of %2$d items:</string>
+    <string name="set_as">Set as</string>
+    <string name="set_image">Set picture as</string>
+    <string name="set_label_all_albums">All albums</string>
+    <string name="set_label_local_albums">Local albums</string>
+    <string name="set_label_mtp_devices">MTP devices</string>
+    <string name="set_label_picasa_albums">Picasa albums</string>
+    <string name="settings">Settings</string>
+    <string name="shadow">Shadows</string>
+    <string name="share">Share</string>
+    <string name="sharpen">Sharpen</string>
+    <string name="show_all">Images and videos</string>
+    <string name="show_images_only">Images only</string>
+    <string name="show_on_map">Show on map</string>
+    <string name="show_videos_only">Videos only</string>
+    <string name="size_above"><ns1:g id="size">%1$s</ns1:g> or above</string>
+    <string name="size_below"><ns1:g id="size">%1$s</ns1:g> or below</string>
+    <string name="size_between"><ns1:g id="min_size">%1$s</ns1:g> to <ns1:g id="max_size">%2$s</ns1:g></string>
+    <string name="slideshow">Slideshow</string>
+    <string name="slideshow_dream_name">Slideshow</string>
+    <string name="straighten">Straighten</string>
+    <string name="straighten_tooltip">Drag photo to straighten it</string>
+    <string name="switch_to_camera">Switch to Camera</string>
+    <string name="sync_album_error">Failed to download the photos in this album. Please retry later.</string>
+    <string name="sync_album_set_error">Failed to download the list of albums. Please retry later.</string>
+    <string name="sync_picasa_albums">Refresh</string>
+    <string name="tags">Tags</string>
+    <string name="temperature">Warmth</string>
+    <string name="time">Time</string>
+    <string name="times">Times</string>
+    <string name="tint">Tint</string>
+    <string name="title">Title</string>
+    <string name="try_to_set_local_album_available_offline">
+        This item is stored locally and available offline.</string>
+    <string name="unit_mm">mm</string>
+    <string name="untagged">Untagged</string>
+    <string name="video_err">Can\'t play video.</string>
+    <string name="vignette">Vignette</string>
+    <string name="wallpaper">Setting wallpaper\u2026</string>
+    <string name="white_balance">White balance</string>
+    <string name="widget_type">Widget type</string>
+    <string name="widget_type_album">Images from an album</string>
+    <string name="widget_type_photo">Choose an image</string>
+    <string name="widget_type_shuffle">Shuffle all images</string>
+    <string name="width">Width</string>
+    <string name="yes">Yes</string>
+    <style name="ActionBarArrow">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">@dimen/action_bar_arrow_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/action_bar_arrow_margin_right</item>
+        <item name="android:src">?android:attr/homeAsUpIndicator</item>
+    </style>
+    <style name="ActionBarBackLinearLayout" parent="@style/ActionBarLinearLayout">
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:background">?android:attr/selectableItemBackground</item>
+    </style>
+    <style name="ActionBarIcon" parent="@style/ActionBarImageView">
+        <item name="android:paddingTop">@dimen/action_bar_icon_padding_vertical</item>
+        <item name="android:paddingBottom">@dimen/action_bar_icon_padding_vertical</item>
+        <item name="android:paddingLeft">@dimen/action_bar_icon_padding_left</item>
+        <item name="android:paddingRight">@dimen/action_bar_icon_padding_right</item>
+        <item name="android:src">@mipmap/ic_launcher_gallery</item>
+    </style>
+    <style name="ActionBarImageView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:scaleType">centerInside</item>
+        <item name="android:adjustViewBounds">true</item>
+    </style>
+    <style name="ActionBarInner">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">?android:attr/actionBarSize</item>
+    </style>
+    <style name="ActionBarLinearLayout">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+    <style name="ActionBarOuter">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="ActionBarTitle" parent="android:TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="DialogPickerTheme" parent="Theme.Gallery">
+    </style>
+    <style name="Effect">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:paddingLeft">@dimen/effect_padding_horizontal</item>
+        <item name="android:paddingRight">@dimen/effect_padding_horizontal</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="EffectIcon">
+        <item name="android:layout_width">@dimen/effect_icon_size</item>
+        <item name="android:layout_height">@dimen/effect_icon_size</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:background">@null</item>
+    </style>
+    <style name="EffectLabel">
+        <item name="android:layout_width">@dimen/effect_label_width</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginTop">@dimen/effect_label_margin_top</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/effect_label_text_size</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+    <style name="EffectsBar">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="EffectsContainer">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/effects_container_padding</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+    <style name="EffectsMenuActionButton" parent="@style/ImageActionButton">
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/photoeditor_toggle_button_background</item>
+    </style>
+    <style name="EffectsMenuContainer" parent="@style/ActionBarLinearLayout">
+        <item name="android:layout_width">@dimen/effects_menu_container_width</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+    </style>
+    <style name="FullscreenToolView">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="Holo.ActionBar" parent="android:Widget.Holo.ActionBar">
+        <item name="android:background">@drawable/actionbar_translucent</item>
+        <item name="android:backgroundStacked">@null</item>
+    </style>
+    <style name="ImageActionButton" parent="@style/ActionBarImageView">
+        <item name="android:paddingTop">@dimen/action_button_padding_vertical</item>
+        <item name="android:paddingBottom">@dimen/action_button_padding_vertical</item>
+        <item name="android:paddingLeft">@dimen/action_button_padding_horizontal</item>
+        <item name="android:paddingRight">@dimen/action_button_padding_horizontal</item>
+        <item name="android:background">?android:attr/selectableItemBackground</item>
+    </style>
+    <style name="MediaButton.Play" parent="@android:style/MediaButton.Play">
+        <item name="android:background">@null</item>
+        <item name="android:src">@drawable/icn_media_play</item>
+    </style>
+    <style name="SpinnerProgressDialog">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="TextActionButton" parent="android:TextAppearance.Holo.Widget.ActionBar.Menu">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">@dimen/action_button_padding_horizontal</item>
+        <item name="android:paddingRight">@dimen/action_button_padding_horizontal</item>
+        <item name="android:background">?android:attr/selectableItemBackground</item>
+    </style>
+    <style name="Theme.Gallery" parent="android:Theme.Holo">
+        <item name="android:displayOptions"/>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:actionBarStyle">@style/Holo.ActionBar</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="android:colorBackground">@null</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\photoeditor_fade_in.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\anim\\photoeditor_fade_in.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\photoeditor_fade_out.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\anim\\photoeditor_fade_out.xml"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\player_out.xml",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\anim\\player_out.xml"
+    }
+]

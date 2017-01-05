@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\thumb_selected.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-xhdpi\\thumb_selected.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\overscroll_glow.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-xhdpi\\overscroll_glow.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_vidcontrol.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-xhdpi\\bg_vidcontrol.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\preview.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-xhdpi\\preview.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\frame_overlay_gallery_folder.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-xhdpi\\frame_overlay_gallery_folder.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\grid_pressed.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-xhdpi\\grid_pressed.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\grid_selected.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-xhdpi\\grid_selected.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\spinner_76_outer_holo.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-xhdpi\\spinner_76_outer_holo.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\frame_overlay_gallery_ptp.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-xhdpi\\frame_overlay_gallery_ptp.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gallery_play.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-xhdpi\\ic_gallery_play.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\camera_crop_holo.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-xhdpi\\camera_crop_holo.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\frame_overlay_gallery_picasa.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-xhdpi\\frame_overlay_gallery_picasa.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pan_thumb.9.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-xhdpi\\ic_pan_thumb.9.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_make_offline.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_make_offline.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_vidcontrol_play.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-xhdpi\\ic_vidcontrol_play.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\frame_overlay_gallery_camera.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-xhdpi\\frame_overlay_gallery_camera.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_vidcontrol_pause.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-xhdpi\\ic_vidcontrol_pause.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_video_thumb.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-xhdpi\\ic_video_thumb.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\overscroll_edge.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-xhdpi\\overscroll_edge.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\spinner_76_inner_holo.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-xhdpi\\spinner_76_inner_holo.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\scrubber_knob.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-xhdpi\\scrubber_knob.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\Gallery2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_vidcontrol_reload.png",
+        "source": "C:\\AndroidProject\\Gallery2\\app\\src\\main\\res\\drawable-xhdpi\\ic_vidcontrol_reload.png"
+    }
+]

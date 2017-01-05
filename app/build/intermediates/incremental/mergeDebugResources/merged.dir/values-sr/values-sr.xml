@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="make_albums_available_offline">
+    <item msgid="2171596356101611086" quantity="one">"Омогућавање доступности албума ван мреже"</item>
+    <item msgid="4948604338155959389" quantity="other">"Омогућавање доступности албума ван мреже."</item>
+  </plurals>
+    <plurals name="number_of_albums_selected">
+    <item msgid="749292746814788132" quantity="zero">"Изабранo je %1$d"</item>
+    <item msgid="6184377003099987825" quantity="one">"Изабранo je %1$d"</item>
+    <item msgid="53105607141906130" quantity="other">"Изабранo je %1$d"</item>
+  </plurals>
+    <plurals name="number_of_groups_selected">
+    <item msgid="3466388370310869238" quantity="zero">"Изабранo je %1$d"</item>
+    <item msgid="5030162638216034260" quantity="one">"Изабранo je %1$d"</item>
+    <item msgid="3512041363942842738" quantity="other">"Изабранo je %1$d"</item>
+  </plurals>
+    <plurals name="number_of_items_selected">
+    <item msgid="2142579311530586258" quantity="zero">"Изабранo je %1$d"</item>
+    <item msgid="2478365152745637768" quantity="one">"Изабранo je %1$d"</item>
+    <item msgid="754722656147810487" quantity="other">"Изабранo je %1$d"</item>
+  </plurals>
+    <string msgid="3985447518557474672" name="Import">"Увези"</string>
+    <string msgid="5619154886080878023" name="activity_not_found">"Нема доступних апликација за довршавање радње."</string>
+    <string msgid="4271217504968243974" name="add_account">"Додавање налога"</string>
+    <string msgid="7320787705180057947" name="albums">"Албуми"</string>
+    <string msgid="5920657630303915195" name="aperture">"Отвор бленде"</string>
+    <string msgid="1928079047368929634" name="app_name">"Галерија"</string>
+    <string msgid="1228925628357366957" name="appwidget_empty_text">"Нема фотографија."</string>
+    <string msgid="6410561146863700411" name="appwidget_title">"Фото-галерија"</string>
+    <string msgid="4296941368722892821" name="auto">"Аутом."</string>
+    <string msgid="1663414996270538748" name="autofix">"Аутоподешавање"</string>
+    <string msgid="4521059045896269095" name="caching_label">"Кеширање..."</string>
+    <string msgid="916021826223448591" name="camera_connected">"Камера је прикључена."</string>
+    <string msgid="2100559901676329496" name="camera_disconnected">"Камера је искључена."</string>
+    <string msgid="797463183863414289" name="camera_setas_wallpaper">"Позадина"</string>
+    <string msgid="3637516880917356226" name="cancel">"Откажи"</string>
+    <string msgid="6407959065464291972" name="click_import">"Додирните овде за увоз"</string>
+    <string msgid="5585646033158453043" name="close">"Затвори"</string>
+    <string msgid="7358770022173660511" name="confirm_delete">"Избриши"</string>
+    <string msgid="7598378507763334041" name="crop">"Опсецање"</string>
+    <string msgid="3427470284074377001" name="crop_action">"Опсеци"</string>
+    <string msgid="521114301871349328" name="crop_label">"Опсеци слику"</string>
+    <string msgid="3400773981839556" name="crop_not_saved">"Опсечена слика није сачувана."</string>
+    <string msgid="152200178986698300" name="crop_save_text">"Потврди"</string>
+    <string msgid="1062612625032731770" name="crop_saved">"Опсечена слика је сачувана у Преузимањима."</string>
+    <string msgid="8794037869706891710" name="crop_tooltip">"Превуците означиваче да бисте опсекли фотографију"</string>
+    <string msgid="4173724489001742342" name="crossprocess">"Унакрсна обрада"</string>
+    <string msgid="2839695998251824487" name="delete">"Избриши"</string>
+    <string msgid="3016729318096557520" name="description">"Опис"</string>
+    <string msgid="5758897506061723684" name="deselect_all">"Опозови све изборе"</string>
+    <string msgid="8415120088556445230" name="details">"Детаљи"</string>
+    <string msgid="3215779248094151255" name="details_hms">"%1$d:%2$02d:%3$02d"</string>
+    <string msgid="940634969189855292" name="details_ms">"%1$02d:%2$02d"</string>
+    <string msgid="2611396603977441273" name="details_title">"%1$d од %2$d ставке(и):"</string>
+    <string msgid="50396326708699797" name="documentary">"Документарно"</string>
+    <string msgid="217672440064436595" name="done">"Done"</string>
+    <string msgid="1686409894518940990" name="doodle">"Дудл логотип"</string>
+    <string msgid="2902117272374362915" name="doodle_tooltip">"Превуците слику на дудл логотип"</string>
+    <string msgid="8145893940788467106" name="duotone">"Дуо-тон"</string>
+    <string msgid="8160058911218541616" name="duration">"Трајање"</string>
+    <string msgid="1502273844748580847" name="edit">"Измени"</string>
+    <string msgid="3777746536831799890" name="edited_photo_bucket_name">"Измењено"</string>
+    <string msgid="4542880442593595494" name="empty_album">"Доступно је 0 слика/видео снимака."</string>
+    <string msgid="3990163680281058826" name="exposure_time">"Време експозиције"</string>
+    <string msgid="6205748523156172637" name="facelift">"Сјај лица"</string>
+    <string msgid="4412831806626044111" name="facetan">"Преплануло лице"</string>
+    <string msgid="8394392853646664505" name="fail_to_load">"Учитавање није могуће"</string>
+    <string msgid="8486169301588318915" name="file_size">"Величина датотеке"</string>
+    <string msgid="2644989991700022526" name="filllight">"Светлина"</string>
+    <string msgid="6037488646928998921" name="fisheye">"Рибље око"</string>
+    <string msgid="2816779031261147723" name="flash">"Блиц"</string>
+    <string msgid="1445443413822680010" name="flash_off">"Без блица"</string>
+    <string msgid="7891556231891837284" name="flash_on">"Блиц је актив."</string>
+    <string msgid="2357692401826287480" name="flip">"Обрни"</string>
+    <string msgid="2700943256714731737" name="flip_tooltip">"Превуците фотографију да бисте је окренули"</string>
+    <string msgid="1291383769749877010" name="focal_length">"Фокална дужина"</string>
+    <string msgid="8766337315709161215" name="free_space_format">"<ns1:g id="BYTES">%s</ns1:g> слободно"</string>
+    <string msgid="259405922673466798" name="gadget_title">"Оквир слике"</string>
+    <string msgid="7487585304579789098" name="grain">"Зрнастост филма"</string>
+    <string msgid="7641563843060945228" name="grayscale">"црно-бело"</string>
+    <string msgid="4308299657902209357" name="group_by">"Групиши према"</string>
+    <string msgid="1532818636053818958" name="group_by_album">"Према албуму"</string>
+    <string msgid="1566351636227274906" name="group_by_faces">"Према особама"</string>
+    <string msgid="316641628989023253" name="group_by_location">"Према локацији"</string>
+    <string msgid="153766174950394155" name="group_by_size">"Према величини"</string>
+    <string msgid="3568731317210676160" name="group_by_tags">"Према ознакама"</string>
+    <string msgid="9046168567717963573" name="group_by_time">"Према времену"</string>
+    <string msgid="3648885449443787772" name="height">"Висина"</string>
+    <string msgid="3902653944386623972" name="highlight">"Истицање"</string>
+    <string msgid="3875040287486199999" name="import_complete">"Увоз је довршен"</string>
+    <string msgid="8497942380703298808" name="import_fail">"Увоз није успео"</string>
+    <string msgid="5028296664327335940" name="iso">"ISO"</string>
+    <string msgid="7038208555304563571" name="loading">"Учитавање…"</string>
+    <string msgid="928195413034552034" name="loading_account">"Учитавање налога…"</string>
+    <string msgid="5990741970574295950" name="loading_failure">"Фотографија не може да се учита"</string>
+    <string msgid="1200894415793838191" name="loading_image">"Учитавање слике…"</string>
+    <string msgid="4013492720121891585" name="loading_video">"Учитавање видео снимка…"</string>
+    <string msgid="3432705876921618314" name="location">"Локација"</string>
+    <string msgid="6649297994083130305" name="locations">"Локације"</string>
+    <string msgid="1270032154357186736" name="lomoish">"Ломографски"</string>
+    <string msgid="5157950985488297112" name="make_available_offline">"Учини доступним ван мреже"</string>
+    <string msgid="7921835498034236197" name="maker">"Аутор"</string>
+    <string msgid="6608905477477607865" name="manual">"Ручно"</string>
+    <string msgid="8024168704337990470" name="mimetype">"MIME тип"</string>
+    <string msgid="8240207064064337366" name="model">"Модел"</string>
+    <string msgid="3526526872644898229" name="movie_view_label">"Видео плејер"</string>
+    <string msgid="2554690102655855657" name="multiface_crop_help">"Додирните неко лице за почетак."</string>
+    <string msgid="1985508917342811252" name="negative">"Негатив"</string>
+    <string msgid="5595408018304861875" name="no">"Не"</string>
+    <string msgid="4111744447491690896" name="no_albums_alert">"Ниједан албум није доступан."</string>
+    <string msgid="7164037617297293668" name="no_connectivity">"Није могуће идентификовати неке локације због проблема са мрежом."</string>
+    <string msgid="4043624857489331676" name="no_location">"Без локације"</string>
+    <string msgid="5315144556325243400" name="no_such_item">"Није могуће пронаћи ставку."</string>
+    <string msgid="284723185546429750" name="no_thumbnail">"Нема сличице"</string>
+    <string msgid="4958327983165245513" name="orientation">"Положај"</string>
+    <string msgid="4725740395885105824" name="path">"Путања"</string>
+    <string msgid="4114003823747292747" name="people">"Особе"</string>
+    <string msgid="3494363661299484657" name="photo_saved">"Фотографија је сачувана у албум <ns1:g id="ALBUM_NAME">%s</ns1:g>"</string>
+    <string msgid="4738587346771969697" name="photoeditor_name">"Фото-студио"</string>
+    <string msgid="1497721615718760613" name="picasa_posts">"Постови"</string>
+    <string msgid="4139212359561383385" name="posterize">"Постеризуј"</string>
+    <string msgid="8722939570307386071" name="process_caching_requests">"Обрада захтева за кеширање"</string>
+    <string msgid="4958448806369928239" name="redeye">"Црвене очи"</string>
+    <string msgid="9112774042113471358" name="redeye_tooltip">"Додирните да бисте уклонили ефекат црвених очију"</string>
+    <string msgid="5184414518126703481" name="resume_playing_message">"Желите ли да наставите репродукцију од %s ?"</string>
+    <string msgid="5471008499835769292" name="resume_playing_restart">"Започни поново"</string>
+    <string msgid="3847915469173852416" name="resume_playing_resume">"Настави репродукцију"</string>
+    <string msgid="8996677350649355013" name="resume_playing_title">"Наставак видео снимка"</string>
+    <string msgid="6607597269792373083" name="rotate">"Ротирај"</string>
+    <string msgid="5888273317282539839" name="rotate_left">"Ротирај улево"</string>
+    <string msgid="6776325835923384839" name="rotate_right">"Ротирај удесно"</string>
+    <string msgid="7008602969130734229" name="rotate_tooltip">"Превуците фотографију да бисте је ротирали"</string>
+    <string msgid="8621322012271169931" name="saturation">"Засићење"</string>
+    <string msgid="5516670392524294967" name="save">"САЧУВАЈ"</string>
+    <string msgid="6857408774183654970" name="save_error">"Није могуће сачувати опсечену слику."</string>
+    <string msgid="3125109368779997862" name="save_photo">"Желите ли да сачувате измењену фотографију?"</string>
+    <string msgid="8596600582621364077" name="saving_failure">"Фотографија не може да се сачува"</string>
+    <string msgid="7270334453636349407" name="saving_image">"Чување слике…"</string>
+    <string msgid="4632641262236697235" name="select_album">"Избор албума"</string>
+    <string msgid="3403283025220282175" name="select_all">"Изабери све"</string>
+    <string msgid="9090385962030340391" name="select_group">"Избор групе(а)"</string>
+    <string msgid="7841406150484742140" name="select_image">"Избор фотографије"</string>
+    <string msgid="2257529413100472599" name="select_item">"Избор ставке(и)"</string>
+    <string msgid="4859510992798615076" name="select_video">"Избор видео снимка"</string>
+    <string msgid="7978093531824705601" name="sepia">"Сепија"</string>
+    <string msgid="7235465319919457488" name="sequence_in_set">"%1$d од %2$d ставке(и):"</string>
+    <string msgid="3636764710790507868" name="set_as">"Постави као"</string>
+    <string msgid="2331476809308010401" name="set_image">"Постављање слике као"</string>
+    <string msgid="4581863582996336783" name="set_label_all_albums">"Сви албуми"</string>
+    <string msgid="6698133661656266702" name="set_label_local_albums">"Локални албуми"</string>
+    <string msgid="1283513183744896368" name="set_label_mtp_devices">"MTP уређаји"</string>
+    <string msgid="5356258354953935895" name="set_label_picasa_albums">"Picasa албуми"</string>
+    <string msgid="1534847740615665736" name="settings">"Подешавања"</string>
+    <string msgid="8235188588101973090" name="shadow">"Сенке"</string>
+    <string msgid="3619042788254195341" name="share">"Дели"</string>
+    <string msgid="8449662378104403230" name="sharpen">"Изоштри"</string>
+    <string msgid="4780647751652596980" name="show_all">"Слике и видео снимци"</string>
+    <string msgid="7263218480867672653" name="show_images_only">"Само слике"</string>
+    <string msgid="6157544221201750980" name="show_on_map">"Прикажи на мапи"</string>
+    <string msgid="3850394623678871697" name="show_videos_only">"Само видео снимци"</string>
+    <string msgid="5324398253474104087" name="size_above">"<ns1:g id="SIZE">%1$s</ns1:g> или више"</string>
+    <string msgid="2074956730721942260" name="size_below">"<ns1:g id="SIZE">%1$s</ns1:g> или мање"</string>
+    <string msgid="8779660840898917208" name="size_between">"<ns1:g id="MIN_SIZE">%1$s</ns1:g> до <ns1:g id="MAX_SIZE">%2$s</ns1:g>"</string>
+    <string msgid="4355906903247112975" name="slideshow">"Пројекција слајдова"</string>
+    <string msgid="6915963319933437083" name="slideshow_dream_name">"Пројекција слајдова"</string>
+    <string msgid="5217801513491493491" name="straighten">"Исправи"</string>
+    <string msgid="4846317027139212339" name="straighten_tooltip">"Превуците фотографију да бисте је исправили"</string>
+    <string msgid="7280111806675169992" name="switch_to_camera">"Пребацивање на Камеру"</string>
+    <string msgid="2218733298953719785" name="sync_album_error">"Преузимање фотографија из овог албума није успело. Покушајте поново касније."</string>
+    <string msgid="9016732535181154028" name="sync_album_set_error">"Преузимање листе албума није успело. Покушајте поново касније."</string>
+    <string msgid="8522572542111169872" name="sync_picasa_albums">"Освежи"</string>
+    <string msgid="5539648765482935955" name="tags">"Ознаке"</string>
+    <string msgid="1607987938521534517" name="temperature">"Топлота"</string>
+    <string msgid="1367953006052876956" name="time">"Време"</string>
+    <string msgid="2023033894889499219" name="times">"Пута"</string>
+    <string msgid="154435943863418434" name="tint">"Сенка"</string>
+    <string msgid="7622928349908052569" name="title">"Наслов"</string>
+    <string msgid="2184754031896160755" name="try_to_set_local_album_available_offline">"Ова ставка је локално сачувана и доступна ван мреже."</string>
+    <string msgid="1125768433254329136" name="unit_mm">"мм"</string>
+    <string msgid="7281481064509590402" name="untagged">"Није означено"</string>
+    <string msgid="7003051631792271009" name="video_err">"Није могуће пустити видео."</string>
+    <string msgid="7648125924662648282" name="vignette">"Вињета"</string>
+    <string msgid="140165383777262070" name="wallpaper">"Подешавање позадине..."</string>
+    <string msgid="1582509289994216078" name="white_balance">"Баланс беле"</string>
+    <string msgid="2161028964992385809" name="widget_type">"Тип виџета"</string>
+    <string msgid="3245149644830731121" name="widget_type_album">"Слике из албума"</string>
+    <string msgid="6267065337367795355" name="widget_type_photo">"Изабери слику"</string>
+    <string msgid="8594622705019763768" name="widget_type_shuffle">"Пусти све слике насумично"</string>
+    <string msgid="9215847239714321097" name="width">"Ширина"</string>
+    <string msgid="5402582493291792293" name="yes">"Да"</string>
+</resources>
